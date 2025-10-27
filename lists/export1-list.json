@@ -1,0 +1,4292 @@
+﻿[
+    {
+        "card_name": "Ancient Arbiter",
+        "number": 9,
+        "shape": "normal",
+        "set": "export1",
+        "position": "475"
+    },
+    {
+        "card_name": "Anis, Fractureform Curator",
+        "number": 85,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "506"
+    },
+    {
+        "card_name": "All Costs",
+        "number": 163,
+        "shape": "normal",
+        "set": "export1",
+        "position": "31"
+    },
+    {
+        "card_name": "Agent of Chaos",
+        "number": 236,
+        "shape": "normal",
+        "set": "export1",
+        "position": "532"
+    },
+    {
+        "card_name": "Acolyte of Renewal",
+        "number": 309,
+        "shape": "normal",
+        "set": "export1",
+        "position": "390"
+    },
+    {
+        "card_name": "Arclight Conjurer",
+        "number": 10,
+        "shape": "normal",
+        "set": "export1",
+        "position": "372"
+    },
+    {
+        "card_name": "Archmage's Orrery",
+        "number": 86,
+        "shape": "normal",
+        "set": "export1",
+        "position": "97"
+    },
+    {
+        "card_name": "Anelle, Circumspect Sovereign",
+        "number": 164,
+        "shape": "normal",
+        "set": "export1",
+        "position": "272"
+    },
+    {
+        "card_name": "Agraxis, Pathbreaker",
+        "number": 237,
+        "shape": "normal",
+        "set": "export1",
+        "position": "363"
+    },
+    {
+        "card_name": "Ageless Ascetic",
+        "number": 310,
+        "shape": "normal",
+        "set": "export1",
+        "position": "529"
+    },
+    {
+        "card_name": "Ascendant Veteran",
+        "number": 11,
+        "shape": "normal",
+        "set": "export1",
+        "position": "535"
+    },
+    {
+        "card_name": "Breach the Veil",
+        "number": 87,
+        "shape": "normal",
+        "set": "export1",
+        "position": "293"
+    },
+    {
+        "card_name": "Coax from Beyond",
+        "number": 165,
+        "shape": "normal",
+        "set": "export1",
+        "position": "26"
+    },
+    {
+        "card_name": "Arc, the Flame's Crest",
+        "number": 238,
+        "shape": "normal",
+        "set": "export1",
+        "position": "241"
+    },
+    {
+        "card_name": "Ancient Warden's Effigy",
+        "number": 311,
+        "shape": "normal",
+        "set": "export1",
+        "position": "343"
+    },
+    {
+        "card_name": "Asha, Horizon Sentinel",
+        "number": 12,
+        "shape": "transform double faced",
+        "set": "export1",
+        "position": "15"
+    },
+    {
+        "card_name": "Cascading Multifurcation",
+        "number": 88,
+        "shape": "normal",
+        "set": "export1",
+        "position": "383"
+    },
+    {
+        "card_name": "Condemn to Nothing",
+        "number": 166,
+        "shape": "normal",
+        "set": "export1",
+        "position": "323"
+    },
+    {
+        "card_name": "Arcing Elimination",
+        "number": 239,
+        "shape": "normal",
+        "set": "export1",
+        "position": "53"
+    },
+    {
+        "card_name": "Anima Sage",
+        "number": 312,
+        "shape": "normal",
+        "set": "export1",
+        "position": "389"
+    },
+    {
+        "card_name": "Attune to the Ethereal",
+        "number": 13,
+        "shape": "normal",
+        "set": "export1",
+        "position": "177"
+    },
+    {
+        "card_name": "Chaos Aperture",
+        "number": 89,
+        "shape": "normal",
+        "set": "export1",
+        "position": "462"
+    },
+    {
+        "card_name": "Decoherent Prowler",
+        "number": 167,
+        "shape": "normal",
+        "set": "export1",
+        "position": "167"
+    },
+    {
+        "card_name": "Athros, Passion Shaper",
+        "number": 240,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "83"
+    },
+    {
+        "card_name": "Ario, Ambling Verdure",
+        "number": 313,
+        "shape": "normal",
+        "set": "export1",
+        "position": "314"
+    },
+    {
+        "card_name": "Austere Starrix",
+        "number": 14,
+        "shape": "normal",
+        "set": "export1",
+        "position": "398"
+    },
+    {
+        "card_name": "Chaotic Recall",
+        "number": 90,
+        "shape": "normal",
+        "set": "export1",
+        "position": "114"
+    },
+    {
+        "card_name": "Descending Shadows",
+        "number": 168,
+        "shape": "normal",
+        "set": "export1",
+        "position": "420"
+    },
+    {
+        "card_name": "Battle Trance",
+        "number": 241,
+        "shape": "normal",
+        "set": "export1",
+        "position": "86"
+    },
+    {
+        "card_name": "Ascetic of Strength",
+        "number": 314,
+        "shape": "normal",
+        "set": "export1",
+        "position": "344"
+    },
+    {
+        "card_name": "Blinding Echoes",
+        "number": 15,
+        "shape": "normal",
+        "set": "export1",
+        "position": "160"
+    },
+    {
+        "card_name": "Clarify",
+        "number": 91,
+        "shape": "normal",
+        "set": "export1",
+        "position": "445"
+    },
+    {
+        "card_name": "Desolate Revelation",
+        "number": 169,
+        "shape": "normal",
+        "set": "export1",
+        "position": "0"
+    },
+    {
+        "card_name": "Battlerune Adept",
+        "number": 242,
+        "shape": "adventure",
+        "set": "export1",
+        "position": "57"
+    },
+    {
+        "card_name": "Aspect of Genesis",
+        "number": 315,
+        "shape": "normal",
+        "set": "export1",
+        "position": "517"
+    },
+    {
+        "card_name": "Celena, Sand Sea Tamer",
+        "number": 16,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "503"
+    },
+    {
+        "card_name": "Cognitive Overload",
+        "number": 92,
+        "shape": "normal",
+        "set": "export1",
+        "position": "125"
+    },
+    {
+        "card_name": "Disciple of the Cycle",
+        "number": 170,
+        "shape": "transform double faced",
+        "set": "export1",
+        "position": "27"
+    },
+    {
+        "card_name": "Blackened Skies",
+        "number": 243,
+        "shape": "normal",
+        "set": "export1",
+        "position": "299"
+    },
+    {
+        "card_name": "Aspect of Growth",
+        "number": 316,
+        "shape": "normal",
+        "set": "export1",
+        "position": "388"
+    },
+    {
+        "card_name": "Dance of the Ethereal",
+        "number": 17,
+        "shape": "normal",
+        "set": "export1",
+        "position": "375"
+    },
+    {
+        "card_name": "Cosmic Perception",
+        "number": 93,
+        "shape": "normal",
+        "set": "export1",
+        "position": "459"
+    },
+    {
+        "card_name": "Disincorporate",
+        "number": 171,
+        "shape": "normal",
+        "set": "export1",
+        "position": "417"
+    },
+    {
+        "card_name": "Blazewing",
+        "number": 244,
+        "shape": "normal",
+        "set": "export1",
+        "position": "72"
+    },
+    {
+        "card_name": "Awakening Terrain",
+        "number": 317,
+        "shape": "normal",
+        "set": "export1",
+        "position": "440"
+    },
+    {
+        "card_name": "Decohere",
+        "number": 18,
+        "shape": "normal",
+        "set": "export1",
+        "position": "376"
+    },
+    {
+        "card_name": "Crackling Dominator",
+        "number": 94,
+        "shape": "normal",
+        "set": "export1",
+        "position": "102"
+    },
+    {
+        "card_name": "Dunecrest Sellsword",
+        "number": 172,
+        "shape": "normal",
+        "set": "export1",
+        "position": "13"
+    },
+    {
+        "card_name": "Blazing Night",
+        "number": 245,
+        "shape": "normal",
+        "set": "export1",
+        "position": "382"
+    },
+    {
+        "card_name": "Behold Destiny",
+        "number": 318,
+        "shape": "normal",
+        "set": "export1",
+        "position": "341"
+    },
+    {
+        "card_name": "Desert's Obscuration",
+        "number": 19,
+        "shape": "normal",
+        "set": "export1",
+        "position": "172"
+    },
+    {
+        "card_name": "Crippling Crackleform",
+        "number": 95,
+        "shape": "normal",
+        "set": "export1",
+        "position": "161"
+    },
+    {
+        "card_name": "Eldritch Amalgam",
+        "number": 173,
+        "shape": "adventure",
+        "set": "export1",
+        "position": "1"
+    },
+    {
+        "card_name": "Blazing Triumph",
+        "number": 246,
+        "shape": "normal",
+        "set": "export1",
+        "position": "292"
+    },
+    {
+        "card_name": "Bestiomancer's Ascension",
+        "number": 319,
+        "shape": "normal",
+        "set": "export1",
+        "position": "387"
+    },
+    {
+        "card_name": "Dune Reader",
+        "number": 20,
+        "shape": "normal",
+        "set": "export1",
+        "position": "316"
+    },
+    {
+        "card_name": "Cyclonic Disruptor",
+        "number": 96,
+        "shape": "normal",
+        "set": "export1",
+        "position": "104"
+    },
+    {
+        "card_name": "Eldritch Tides",
+        "number": 174,
+        "shape": "normal",
+        "set": "export1",
+        "position": "415"
+    },
+    {
+        "card_name": "Brutality's Favor",
+        "number": 247,
+        "shape": "saga",
+        "set": "export1",
+        "position": "545"
+    },
+    {
+        "card_name": "Boughborne Ambush",
+        "number": 320,
+        "shape": "normal",
+        "set": "export1",
+        "position": "410"
+    },
+    {
+        "card_name": "Dunecrest Commander",
+        "number": 21,
+        "shape": "normal",
+        "set": "export1",
+        "position": "401"
+    },
+    {
+        "card_name": "Daredevil Essencecourser",
+        "number": 97,
+        "shape": "normal",
+        "set": "export1",
+        "position": "103"
+    },
+    {
+        "card_name": "Engulfing Shadows",
+        "number": 175,
+        "shape": "normal",
+        "set": "export1",
+        "position": "21"
+    },
+    {
+        "card_name": "Carnage Crafter",
+        "number": 248,
+        "shape": "normal",
+        "set": "export1",
+        "position": "90"
+    },
+    {
+        "card_name": "Boughrender Behemoth",
+        "number": 321,
+        "shape": "normal",
+        "set": "export1",
+        "position": "328"
+    },
+    {
+        "card_name": "Dunecrest Thaumaturge",
+        "number": 22,
+        "shape": "normal",
+        "set": "export1",
+        "position": "311"
+    },
+    {
+        "card_name": "Dazzling Hypnosis",
+        "number": 98,
+        "shape": "normal",
+        "set": "export1",
+        "position": "395"
+    },
+    {
+        "card_name": "Evanescent Singularity",
+        "number": 176,
+        "shape": "normal",
+        "set": "export1",
+        "position": "312"
+    },
+    {
+        "card_name": "Channel the Storm",
+        "number": 249,
+        "shape": "normal",
+        "set": "export1",
+        "position": "498"
+    },
+    {
+        "card_name": "Bounteous Celebrant",
+        "number": 322,
+        "shape": "normal",
+        "set": "export1",
+        "position": "139"
+    },
+    {
+        "card_name": "Dunewatch Sentinel",
+        "number": 23,
+        "shape": "normal",
+        "set": "export1",
+        "position": "179"
+    },
+    {
+        "card_name": "Desert Dealings",
+        "number": 99,
+        "shape": "normal",
+        "set": "export1",
+        "position": "110"
+    },
+    {
+        "card_name": "Fallen Arbiter",
+        "number": 177,
+        "shape": "normal",
+        "set": "export1",
+        "position": "431"
+    },
+    {
+        "card_name": "Chaos Channeler",
+        "number": 250,
+        "shape": "normal",
+        "set": "export1",
+        "position": "60"
+    },
+    {
+        "card_name": "Bounty of the Undergrowth",
+        "number": 323,
+        "shape": "normal",
+        "set": "export1",
+        "position": "334"
+    },
+    {
+        "card_name": "Edge, the Whistling Sand",
+        "number": 24,
+        "shape": "normal",
+        "set": "export1",
+        "position": "242"
+    },
+    {
+        "card_name": "Desperate Deflection",
+        "number": 100,
+        "shape": "normal",
+        "set": "export1",
+        "position": "106"
+    },
+    {
+        "card_name": "Forsaken Remnant",
+        "number": 178,
+        "shape": "normal",
+        "set": "export1",
+        "position": "20"
+    },
+    {
+        "card_name": "Chargestrike Lancer",
+        "number": 251,
+        "shape": "normal",
+        "set": "export1",
+        "position": "78"
+    },
+    {
+        "card_name": "Caustic Wanderer",
+        "number": 324,
+        "shape": "normal",
+        "set": "export1",
+        "position": "157"
+    },
+    {
+        "card_name": "Enforcer of Uniformity",
+        "number": 25,
+        "shape": "normal",
+        "set": "export1",
+        "position": "123"
+    },
+    {
+        "card_name": "Diffuse Reality",
+        "number": 101,
+        "shape": "transform double faced",
+        "set": "export1",
+        "position": "101"
+    },
+    {
+        "card_name": "Grim Verdict",
+        "number": 179,
+        "shape": "normal",
+        "set": "export1",
+        "position": "22"
+    },
+    {
+        "card_name": "Conjure the Inferno",
+        "number": 252,
+        "shape": "normal",
+        "set": "export1",
+        "position": "89"
+    },
+    {
+        "card_name": "Close the Cycle",
+        "number": 325,
+        "shape": "normal",
+        "set": "export1",
+        "position": "148"
+    },
+    {
+        "card_name": "Enigma Keeper",
+        "number": 26,
+        "shape": "normal",
+        "set": "export1",
+        "position": "463"
+    },
+    {
+        "card_name": "Disjunction",
+        "number": 102,
+        "shape": "normal",
+        "set": "export1",
+        "position": "301"
+    },
+    {
+        "card_name": "Grimhall Proctor",
+        "number": 180,
+        "shape": "normal",
+        "set": "export1",
+        "position": "28"
+    },
+    {
+        "card_name": "Cracklesnapper Drake",
+        "number": 253,
+        "shape": "normal",
+        "set": "export1",
+        "position": "109"
+    },
+    {
+        "card_name": "Coiling Devourer",
+        "number": 326,
+        "shape": "normal",
+        "set": "export1",
+        "position": "391"
+    },
+    {
+        "card_name": "Enlightened Disciple",
+        "number": 27,
+        "shape": "normal",
+        "set": "export1",
+        "position": "507"
+    },
+    {
+        "card_name": "Disjunction Sage",
+        "number": 103,
+        "shape": "normal",
+        "set": "export1",
+        "position": "298"
+    },
+    {
+        "card_name": "Herald of the Cycle",
+        "number": 181,
+        "shape": "normal",
+        "set": "export1",
+        "position": "423"
+    },
+    {
+        "card_name": "Daring Expeditioner",
+        "number": 254,
+        "shape": "transform double faced",
+        "set": "export1",
+        "position": "62"
+    },
+    {
+        "card_name": "Deepglade Guardian",
+        "number": 327,
+        "shape": "normal",
+        "set": "export1",
+        "position": "146"
+    },
+    {
+        "card_name": "Equality",
+        "number": 28,
+        "shape": "normal",
+        "set": "export1",
+        "position": "166"
+    },
+    {
+        "card_name": "Dynamancer",
+        "number": 104,
+        "shape": "normal",
+        "set": "export1",
+        "position": "254"
+    },
+    {
+        "card_name": "Husk of Majesty",
+        "number": 182,
+        "shape": "normal",
+        "set": "export1",
+        "position": "437"
+    },
+    {
+        "card_name": "Dauntless Duneblade",
+        "number": 255,
+        "shape": "normal",
+        "set": "export1",
+        "position": "56"
+    },
+    {
+        "card_name": "Deepmist Prowler",
+        "number": 328,
+        "shape": "transform double faced",
+        "set": "export1",
+        "position": "145"
+    },
+    {
+        "card_name": "Equanimity",
+        "number": 29,
+        "shape": "normal",
+        "set": "export1",
+        "position": "549"
+    },
+    {
+        "card_name": "Dynamic Cognition",
+        "number": 105,
+        "shape": "normal",
+        "set": "export1",
+        "position": "477"
+    },
+    {
+        "card_name": "Hysteria",
+        "number": 183,
+        "shape": "normal",
+        "set": "export1",
+        "position": "2"
+    },
+    {
+        "card_name": "Decree of Conflagration",
+        "number": 256,
+        "shape": "normal",
+        "set": "export1",
+        "position": "93"
+    },
+    {
+        "card_name": "Devoted Caretaker",
+        "number": 329,
+        "shape": "normal",
+        "set": "export1",
+        "position": "147"
+    },
+    {
+        "card_name": "Essenceform Companion",
+        "number": 30,
+        "shape": "normal",
+        "set": "export1",
+        "position": "237"
+    },
+    {
+        "card_name": "Edel, Ascendant Inspector",
+        "number": 106,
+        "shape": "normal",
+        "set": "export1",
+        "position": "296"
+    },
+    {
+        "card_name": "Ilsa, Lurking Dread",
+        "number": 184,
+        "shape": "adventure",
+        "set": "export1",
+        "position": "261"
+    },
+    {
+        "card_name": "Demeris, Sunblight Cultist",
+        "number": 257,
+        "shape": "normal",
+        "set": "export1",
+        "position": "81"
+    },
+    {
+        "card_name": "Doubling Season",
+        "number": 330,
+        "shape": "normal",
+        "set": "export1",
+        "position": "137"
+    },
+    {
+        "card_name": "Etch, the Enigma",
+        "number": 31,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "349"
+    },
+    {
+        "card_name": "Enigmatic Traversal",
+        "number": 107,
+        "shape": "normal",
+        "set": "export1",
+        "position": "115"
+    },
+    {
+        "card_name": "Inevitable End",
+        "number": 185,
+        "shape": "normal",
+        "set": "export1",
+        "position": "4"
+    },
+    {
+        "card_name": "Effigy Cultist",
+        "number": 258,
+        "shape": "normal",
+        "set": "export1",
+        "position": "77"
+    },
+    {
+        "card_name": "Ebullient Stag",
+        "number": 331,
+        "shape": "normal",
+        "set": "export1",
+        "position": "229"
+    },
+    {
+        "card_name": "Ethereal Wanderer",
+        "number": 32,
+        "shape": "normal",
+        "set": "export1",
+        "position": "168"
+    },
+    {
+        "card_name": "Entrancing Visions",
+        "number": 108,
+        "shape": "modal double faced",
+        "set": "export1",
+        "position": "485"
+    },
+    {
+        "card_name": "Ira, Architect of Delusion",
+        "number": 186,
+        "shape": "normal",
+        "set": "export1",
+        "position": "16"
+    },
+    {
+        "card_name": "Elise, Pitiless Marshal",
+        "number": 259,
+        "shape": "normal",
+        "set": "export1",
+        "position": "66"
+    },
+    {
+        "card_name": "Essence Channeler",
+        "number": 332,
+        "shape": "normal",
+        "set": "export1",
+        "position": "152"
+    },
+    {
+        "card_name": "Evanesce",
+        "number": 33,
+        "shape": "normal",
+        "set": "export1",
+        "position": "337"
+    },
+    {
+        "card_name": "Ethereal Puppeteer",
+        "number": 109,
+        "shape": "normal",
+        "set": "export1",
+        "position": "434"
+    },
+    {
+        "card_name": "Kiyin, Ancient Despot",
+        "number": 187,
+        "shape": "normal",
+        "set": "export1",
+        "position": "12"
+    },
+    {
+        "card_name": "Final Promise",
+        "number": 260,
+        "shape": "normal",
+        "set": "export1",
+        "position": "91"
+    },
+    {
+        "card_name": "Essence Projection",
+        "number": 333,
+        "shape": "normal",
+        "set": "export1",
+        "position": "132"
+    },
+    {
+        "card_name": "Fortitude",
+        "number": 34,
+        "shape": "normal",
+        "set": "export1",
+        "position": "169"
+    },
+    {
+        "card_name": "Evictor of Reality",
+        "number": 110,
+        "shape": "normal",
+        "set": "export1",
+        "position": "122"
+    },
+    {
+        "card_name": "Legion Operative",
+        "number": 188,
+        "shape": "normal",
+        "set": "export1",
+        "position": "30"
+    },
+    {
+        "card_name": "Firebrand Champion",
+        "number": 261,
+        "shape": "normal",
+        "set": "export1",
+        "position": "92"
+    },
+    {
+        "card_name": "Essenceweaver's Artistry",
+        "number": 334,
+        "shape": "normal",
+        "set": "export1",
+        "position": "138"
+    },
+    {
+        "card_name": "Gatebound Sovereign",
+        "number": 35,
+        "shape": "normal",
+        "set": "export1",
+        "position": "165"
+    },
+    {
+        "card_name": "Facet Reader",
+        "number": 111,
+        "shape": "transform double faced",
+        "set": "export1",
+        "position": "107"
+    },
+    {
+        "card_name": "Light's End",
+        "number": 189,
+        "shape": "normal",
+        "set": "export1",
+        "position": "432"
+    },
+    {
+        "card_name": "Firemind Ignus",
+        "number": 262,
+        "shape": "normal",
+        "set": "export1",
+        "position": "71"
+    },
+    {
+        "card_name": "Essenceweft Aura",
+        "number": 335,
+        "shape": "normal",
+        "set": "export1",
+        "position": "149"
+    },
+    {
+        "card_name": "Haunted Harbinger",
+        "number": 36,
+        "shape": "normal",
+        "set": "export1",
+        "position": "458"
+    },
+    {
+        "card_name": "Flickering Insight",
+        "number": 112,
+        "shape": "normal",
+        "set": "export1",
+        "position": "396"
+    },
+    {
+        "card_name": "Liminal Hunter",
+        "number": 190,
+        "shape": "normal",
+        "set": "export1",
+        "position": "433"
+    },
+    {
+        "card_name": "Flamewreathed Blade",
+        "number": 263,
+        "shape": "normal",
+        "set": "export1",
+        "position": "73"
+    },
+    {
+        "card_name": "Examine the Uncharted",
+        "number": 336,
+        "shape": "normal",
+        "set": "export1",
+        "position": "307"
+    },
+    {
+        "card_name": "Helena, Light of the Spire",
+        "number": 37,
+        "shape": "normal",
+        "set": "export1",
+        "position": "369"
+    },
+    {
+        "card_name": "Forbidding Winds",
+        "number": 113,
+        "shape": "normal",
+        "set": "export1",
+        "position": "116"
+    },
+    {
+        "card_name": "Lissa, Dismantler of Truth",
+        "number": 191,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "14"
+    },
+    {
+        "card_name": "Flowstone Artisan",
+        "number": 264,
+        "shape": "normal",
+        "set": "export1",
+        "position": "82"
+    },
+    {
+        "card_name": "Forever-Tree's Presence",
+        "number": 337,
+        "shape": "normal",
+        "set": "export1",
+        "position": "472"
+    },
+    {
+        "card_name": "Highspire Pegasus",
+        "number": 38,
+        "shape": "normal",
+        "set": "export1",
+        "position": "530"
+    },
+    {
+        "card_name": "Forceful Denial",
+        "number": 114,
+        "shape": "normal",
+        "set": "export1",
+        "position": "456"
+    },
+    {
+        "card_name": "Maddened Seer",
+        "number": 192,
+        "shape": "normal",
+        "set": "export1",
+        "position": "414"
+    },
+    {
+        "card_name": "Fluxwing Fowl",
+        "number": 265,
+        "shape": "normal",
+        "set": "export1",
+        "position": "365"
+    },
+    {
+        "card_name": "Great Cycle Sage",
+        "number": 338,
+        "shape": "normal",
+        "set": "export1",
+        "position": "155"
+    },
+    {
+        "card_name": "Highspire Regent",
+        "number": 39,
+        "shape": "normal",
+        "set": "export1",
+        "position": "348"
+    },
+    {
+        "card_name": "Foretell the Unfathomable",
+        "number": 115,
+        "shape": "normal",
+        "set": "export1",
+        "position": "495"
+    },
+    {
+        "card_name": "Malignant Surge",
+        "number": 193,
+        "shape": "normal",
+        "set": "export1",
+        "position": "370"
+    },
+    {
+        "card_name": "Forged by Chaos",
+        "number": 266,
+        "shape": "saga",
+        "set": "export1",
+        "position": "488"
+    },
+    {
+        "card_name": "The Great Devourers",
+        "number": 339,
+        "shape": "normal",
+        "set": "export1",
+        "position": "133"
+    },
+    {
+        "card_name": "In the Eye of the Storm",
+        "number": 40,
+        "shape": "normal",
+        "set": "export1",
+        "position": "403"
+    },
+    {
+        "card_name": "Fracture Entity",
+        "number": 116,
+        "shape": "normal",
+        "set": "export1",
+        "position": "380"
+    },
+    {
+        "card_name": "Misguided Guardian",
+        "number": 194,
+        "shape": "normal",
+        "set": "export1",
+        "position": "430"
+    },
+    {
+        "card_name": "Forgeworks Assistant",
+        "number": 267,
+        "shape": "normal",
+        "set": "export1",
+        "position": "502"
+    },
+    {
+        "card_name": "Interminable Flourishing",
+        "number": 340,
+        "shape": "normal",
+        "set": "export1",
+        "position": "144"
+    },
+    {
+        "card_name": "Indomitable Cleaver",
+        "number": 41,
+        "shape": "normal",
+        "set": "export1",
+        "position": "318"
+    },
+    {
+        "card_name": "Fracturemark Ponderer",
+        "number": 117,
+        "shape": "normal",
+        "set": "export1",
+        "position": "128"
+    },
+    {
+        "card_name": "New Dawn's Herald",
+        "number": 195,
+        "shape": "normal",
+        "set": "export1",
+        "position": "424"
+    },
+    {
+        "card_name": "Fracturemage's Meddling",
+        "number": 268,
+        "shape": "normal",
+        "set": "export1",
+        "position": "453"
+    },
+    {
+        "card_name": "Kalai, Will of the Untamed",
+        "number": 341,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "501"
+    },
+    {
+        "card_name": "Inspiring Orator",
+        "number": 42,
+        "shape": "normal",
+        "set": "export1",
+        "position": "173"
+    },
+    {
+        "card_name": "Gloamshaper",
+        "number": 118,
+        "shape": "normal",
+        "set": "export1",
+        "position": "100"
+    },
+    {
+        "card_name": "Nihility Weaver",
+        "number": 196,
+        "shape": "normal",
+        "set": "export1",
+        "position": "313"
+    },
+    {
+        "card_name": "Fury's Edge",
+        "number": 269,
+        "shape": "normal",
+        "set": "export1",
+        "position": "281"
+    },
+    {
+        "card_name": "Kindlehorn Stag",
+        "number": 342,
+        "shape": "normal",
+        "set": "export1",
+        "position": "324"
+    },
+    {
+        "card_name": "Lifeweaver Adept",
+        "number": 43,
+        "shape": "normal",
+        "set": "export1",
+        "position": "158"
+    },
+    {
+        "card_name": "Gloomfowl",
+        "number": 119,
+        "shape": "normal",
+        "set": "export1",
+        "position": "394"
+    },
+    {
+        "card_name": "Obfuscate",
+        "number": 197,
+        "shape": "normal",
+        "set": "export1",
+        "position": "25"
+    },
+    {
+        "card_name": "Haggard Smith",
+        "number": 270,
+        "shape": "normal",
+        "set": "export1",
+        "position": "450"
+    },
+    {
+        "card_name": "Lifeforce Attunement",
+        "number": 343,
+        "shape": "normal",
+        "set": "export1",
+        "position": "446"
+    },
+    {
+        "card_name": "Lightforged Hammer",
+        "number": 44,
+        "shape": "normal",
+        "set": "export1",
+        "position": "303"
+    },
+    {
+        "card_name": "Hadi, the Unbound Mind",
+        "number": 120,
+        "shape": "normal",
+        "set": "export1",
+        "position": "96"
+    },
+    {
+        "card_name": "Peer Into the Void",
+        "number": 198,
+        "shape": "normal",
+        "set": "export1",
+        "position": "9"
+    },
+    {
+        "card_name": "Havoc, Calamity's Edge",
+        "number": 271,
+        "shape": "normal",
+        "set": "export1",
+        "position": "466"
+    },
+    {
+        "card_name": "Lifeshaper Twins",
+        "number": 344,
+        "shape": "normal",
+        "set": "export1",
+        "position": "345"
+    },
+    {
+        "card_name": "Lightweave Combatant",
+        "number": 45,
+        "shape": "normal",
+        "set": "export1",
+        "position": "321"
+    },
+    {
+        "card_name": "Haphazard Spellweaver",
+        "number": 121,
+        "shape": "normal",
+        "set": "export1",
+        "position": "253"
+    },
+    {
+        "card_name": "Portentious Nightwing",
+        "number": 199,
+        "shape": "normal",
+        "set": "export1",
+        "position": "228"
+    },
+    {
+        "card_name": "Immolating Vortex",
+        "number": 272,
+        "shape": "normal",
+        "set": "export1",
+        "position": "87"
+    },
+    {
+        "card_name": "Lifeweaver Mystic",
+        "number": 345,
+        "shape": "normal",
+        "set": "export1",
+        "position": "340"
+    },
+    {
+        "card_name": "Liminality",
+        "number": 46,
+        "shape": "normal",
+        "set": "export1",
+        "position": "352"
+    },
+    {
+        "card_name": "Head in the Stars",
+        "number": 122,
+        "shape": "normal",
+        "set": "export1",
+        "position": "534"
+    },
+    {
+        "card_name": "Price of War",
+        "number": 200,
+        "shape": "normal",
+        "set": "export1",
+        "position": "565"
+    },
+    {
+        "card_name": "Immortal Champion",
+        "number": 273,
+        "shape": "normal",
+        "set": "export1",
+        "position": "526"
+    },
+    {
+        "card_name": "Lifeweft Reclaimer",
+        "number": 346,
+        "shape": "normal",
+        "set": "export1",
+        "position": "397"
+    },
+    {
+        "card_name": "Litara, Dune's Radiance",
+        "number": 47,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "564"
+    },
+    {
+        "card_name": "Ialuna, Deviant Shardsmith",
+        "number": 123,
+        "shape": "normal",
+        "set": "export1",
+        "position": "543"
+    },
+    {
+        "card_name": "Pursue the Impossible",
+        "number": 201,
+        "shape": "normal",
+        "set": "export1",
+        "position": "413"
+    },
+    {
+        "card_name": "Incinerate",
+        "number": 274,
+        "shape": "normal",
+        "set": "export1",
+        "position": "374"
+    },
+    {
+        "card_name": "Loam Ritual",
+        "number": 347,
+        "shape": "normal",
+        "set": "export1",
+        "position": "366"
+    },
+    {
+        "card_name": "Lucent Binding",
+        "number": 48,
+        "shape": "normal",
+        "set": "export1",
+        "position": "539"
+    },
+    {
+        "card_name": "Ignite the Shadowseam",
+        "number": 124,
+        "shape": "normal",
+        "set": "export1",
+        "position": "439"
+    },
+    {
+        "card_name": "Pyrrhic Elimination",
+        "number": 202,
+        "shape": "normal",
+        "set": "export1",
+        "position": "17"
+    },
+    {
+        "card_name": "Inferno's Intimation",
+        "number": 275,
+        "shape": "normal",
+        "set": "export1",
+        "position": "80"
+    },
+    {
+        "card_name": "Lushfang Stalker",
+        "number": 348,
+        "shape": "normal",
+        "set": "export1",
+        "position": "304"
+    },
+    {
+        "card_name": "Luminous Disturbance",
+        "number": 49,
+        "shape": "normal",
+        "set": "export1",
+        "position": "159"
+    },
+    {
+        "card_name": "Ilan, Probability Sculptor",
+        "number": 125,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "409"
+    },
+    {
+        "card_name": "The Queen's Collapse",
+        "number": 203,
+        "shape": "saga",
+        "set": "export1",
+        "position": "483"
+    },
+    {
+        "card_name": "Legion Harrier",
+        "number": 276,
+        "shape": "normal",
+        "set": "export1",
+        "position": "55"
+    },
+    {
+        "card_name": "Manaflow Channeler",
+        "number": 349,
+        "shape": "normal",
+        "set": "export1",
+        "position": "289"
+    },
+    {
+        "card_name": "Made Unreal",
+        "number": 50,
+        "shape": "normal",
+        "set": "export1",
+        "position": "259"
+    },
+    {
+        "card_name": "Illusory Existence",
+        "number": 126,
+        "shape": "normal",
+        "set": "export1",
+        "position": "126"
+    },
+    {
+        "card_name": "Reduce",
+        "number": 204,
+        "shape": "normal",
+        "set": "export1",
+        "position": "419"
+    },
+    {
+        "card_name": "Legion Instigator",
+        "number": 277,
+        "shape": "normal",
+        "set": "export1",
+        "position": "52"
+    },
+    {
+        "card_name": "Overgrown Monolith",
+        "number": 350,
+        "shape": "normal",
+        "set": "export1",
+        "position": "140"
+    },
+    {
+        "card_name": "Mirage Weaver",
+        "number": 51,
+        "shape": "normal",
+        "set": "export1",
+        "position": "347"
+    },
+    {
+        "card_name": "Logic Diffractor",
+        "number": 127,
+        "shape": "normal",
+        "set": "export1",
+        "position": "124"
+    },
+    {
+        "card_name": "Remove From Existence",
+        "number": 205,
+        "shape": "normal",
+        "set": "export1",
+        "position": "271"
+    },
+    {
+        "card_name": "Legion's License",
+        "number": 278,
+        "shape": "normal",
+        "set": "export1",
+        "position": "317"
+    },
+    {
+        "card_name": "Petemass Devastator",
+        "number": 351,
+        "shape": "normal",
+        "set": "export1",
+        "position": "135"
+    },
+    {
+        "card_name": "Nimble Blademaster",
+        "number": 52,
+        "shape": "normal",
+        "set": "export1",
+        "position": "320"
+    },
+    {
+        "card_name": "Logic Fracture",
+        "number": 128,
+        "shape": "normal",
+        "set": "export1",
+        "position": "505"
+    },
+    {
+        "card_name": "Rend Essence",
+        "number": 206,
+        "shape": "normal",
+        "set": "export1",
+        "position": "429"
+    },
+    {
+        "card_name": "Living-Stone Legionnaire",
+        "number": 279,
+        "shape": "normal",
+        "set": "export1",
+        "position": "69"
+    },
+    {
+        "card_name": "Predate",
+        "number": 352,
+        "shape": "normal",
+        "set": "export1",
+        "position": "142"
+    },
+    {
+        "card_name": "Omenwarders",
+        "number": 53,
+        "shape": "normal",
+        "set": "export1",
+        "position": "245"
+    },
+    {
+        "card_name": "Manweir, Planar Archivist",
+        "number": 129,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "174"
+    },
+    {
+        "card_name": "Resolute Veteran",
+        "number": 207,
+        "shape": "normal",
+        "set": "export1",
+        "position": "7"
+    },
+    {
+        "card_name": "Living-Stone Sentry",
+        "number": 280,
+        "shape": "normal",
+        "set": "export1",
+        "position": "76"
+    },
+    {
+        "card_name": "Primal Animus",
+        "number": 353,
+        "shape": "saga",
+        "set": "export1",
+        "position": "519"
+    },
+    {
+        "card_name": "One Above All",
+        "number": 54,
+        "shape": "saga",
+        "set": "export1",
+        "position": "309"
+    },
+    {
+        "card_name": "Mistrune Ancient",
+        "number": 130,
+        "shape": "transform double faced",
+        "set": "export1",
+        "position": "112"
+    },
+    {
+        "card_name": "Resurgence Ritual",
+        "number": 208,
+        "shape": "normal",
+        "set": "export1",
+        "position": "6"
+    },
+    {
+        "card_name": "Living-Stone Snapper",
+        "number": 281,
+        "shape": "normal",
+        "set": "export1",
+        "position": "65"
+    },
+    {
+        "card_name": "Rootmind Collective",
+        "number": 354,
+        "shape": "normal",
+        "set": "export1",
+        "position": "470"
+    },
+    {
+        "card_name": "Patrician's Procession",
+        "number": 55,
+        "shape": "normal",
+        "set": "export1",
+        "position": "243"
+    },
+    {
+        "card_name": "Moment of Revelation",
+        "number": 131,
+        "shape": "normal",
+        "set": "export1",
+        "position": "542"
+    },
+    {
+        "card_name": "Ritual of Dying Light",
+        "number": 209,
+        "shape": "normal",
+        "set": "export1",
+        "position": "274"
+    },
+    {
+        "card_name": "Living-Stone Tyrant",
+        "number": 282,
+        "shape": "normal",
+        "set": "export1",
+        "position": "381"
+    },
+    {
+        "card_name": "Rotfeaster Behemoth",
+        "number": 355,
+        "shape": "normal",
+        "set": "export1",
+        "position": "143"
+    },
+    {
+        "card_name": "Phasecloak Combatant",
+        "number": 56,
+        "shape": "normal",
+        "set": "export1",
+        "position": "175"
+    },
+    {
+        "card_name": "Morphing Manifesation",
+        "number": 132,
+        "shape": "normal",
+        "set": "export1",
+        "position": "113"
+    },
+    {
+        "card_name": "Ruthless Axeman",
+        "number": 210,
+        "shape": "normal",
+        "set": "export1",
+        "position": "425"
+    },
+    {
+        "card_name": "Magmaw Behemoth",
+        "number": 283,
+        "shape": "normal",
+        "set": "export1",
+        "position": "58"
+    },
+    {
+        "card_name": "Ruthless Clash",
+        "number": 356,
+        "shape": "normal",
+        "set": "export1",
+        "position": "154"
+    },
+    {
+        "card_name": "Refracting Domain",
+        "number": 57,
+        "shape": "normal",
+        "set": "export1",
+        "position": "256"
+    },
+    {
+        "card_name": "Moxis, Inertia Mage",
+        "number": 133,
+        "shape": "normal",
+        "set": "export1",
+        "position": "297"
+    },
+    {
+        "card_name": "Ruthless Legionnaire",
+        "number": 211,
+        "shape": "transform double faced",
+        "set": "export1",
+        "position": "8"
+    },
+    {
+        "card_name": "Molten Impacts",
+        "number": 284,
+        "shape": "normal",
+        "set": "export1",
+        "position": "291"
+    },
+    {
+        "card_name": "Saska, Rotborne Conjurer",
+        "number": 357,
+        "shape": "normal",
+        "set": "export1",
+        "position": "386"
+    },
+    {
+        "card_name": "Resolute Paladin",
+        "number": 58,
+        "shape": "normal",
+        "set": "export1",
+        "position": "163"
+    },
+    {
+        "card_name": "Multiplanarity",
+        "number": 134,
+        "shape": "normal",
+        "set": "export1",
+        "position": "521"
+    },
+    {
+        "card_name": "Shadowkin Stalker",
+        "number": 212,
+        "shape": "normal",
+        "set": "export1",
+        "position": "5"
+    },
+    {
+        "card_name": "Molten Symbiont",
+        "number": 285,
+        "shape": "normal",
+        "set": "export1",
+        "position": "85"
+    },
+    {
+        "card_name": "Serpentine Shadow",
+        "number": 358,
+        "shape": "normal",
+        "set": "export1",
+        "position": "266"
+    },
+    {
+        "card_name": "Rethread",
+        "number": 59,
+        "shape": "normal",
+        "set": "export1",
+        "position": "319"
+    },
+    {
+        "card_name": "Mystical Disciple",
+        "number": 135,
+        "shape": "normal",
+        "set": "export1",
+        "position": "508"
+    },
+    {
+        "card_name": "Shadowseam Apparition",
+        "number": 213,
+        "shape": "normal",
+        "set": "export1",
+        "position": "418"
+    },
+    {
+        "card_name": "Naian, Pyre Guardian",
+        "number": 286,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "61"
+    },
+    {
+        "card_name": "Shadebough Ally",
+        "number": 359,
+        "shape": "normal",
+        "set": "export1",
+        "position": "136"
+    },
+    {
+        "card_name": "Revelatory Dawn",
+        "number": 60,
+        "shape": "normal",
+        "set": "export1",
+        "position": "164"
+    },
+    {
+        "card_name": "Oracle of Dead Night",
+        "number": 136,
+        "shape": "normal",
+        "set": "export1",
+        "position": "364"
+    },
+    {
+        "card_name": "Shadowseam Magistrate",
+        "number": 214,
+        "shape": "normal",
+        "set": "export1",
+        "position": "23"
+    },
+    {
+        "card_name": "Rally to Chaos",
+        "number": 287,
+        "shape": "normal",
+        "set": "export1",
+        "position": "385"
+    },
+    {
+        "card_name": "Shoreshaker Leviathan",
+        "number": 360,
+        "shape": "normal",
+        "set": "export1",
+        "position": "282"
+    },
+    {
+        "card_name": "Sand Sea Cyclone",
+        "number": 61,
+        "shape": "normal",
+        "set": "export1",
+        "position": "400"
+    },
+    {
+        "card_name": "Overcharge",
+        "number": 137,
+        "shape": "normal",
+        "set": "export1",
+        "position": "99"
+    },
+    {
+        "card_name": "Shadowskulk Scavenger",
+        "number": 215,
+        "shape": "normal",
+        "set": "export1",
+        "position": "428"
+    },
+    {
+        "card_name": "Reckless Disciple",
+        "number": 288,
+        "shape": "normal",
+        "set": "export1",
+        "position": "509"
+    },
+    {
+        "card_name": "Skaine, Putrid Eminence",
+        "number": 361,
+        "shape": "normal",
+        "set": "export1",
+        "position": "455"
+    },
+    {
+        "card_name": "Sand Sea Waygate",
+        "number": 62,
+        "shape": "normal",
+        "set": "export1",
+        "position": "468"
+    },
+    {
+        "card_name": "Oversaturate",
+        "number": 138,
+        "shape": "normal",
+        "set": "export1",
+        "position": "118"
+    },
+    {
+        "card_name": "Shadowspinner's Guile",
+        "number": 216,
+        "shape": "normal",
+        "set": "export1",
+        "position": "447"
+    },
+    {
+        "card_name": "Ruthless Expeditioner",
+        "number": 289,
+        "shape": "normal",
+        "set": "export1",
+        "position": "368"
+    },
+    {
+        "card_name": "Stormsurge's Bounty",
+        "number": 362,
+        "shape": "normal",
+        "set": "export1",
+        "position": "134"
+    },
+    {
+        "card_name": "Sandshroud Infiltrator",
+        "number": 63,
+        "shape": "normal",
+        "set": "export1",
+        "position": "178"
+    },
+    {
+        "card_name": "Paramount Potential",
+        "number": 139,
+        "shape": "normal",
+        "set": "export1",
+        "position": "111"
+    },
+    {
+        "card_name": "Sinister Influence",
+        "number": 217,
+        "shape": "normal",
+        "set": "export1",
+        "position": "427"
+    },
+    {
+        "card_name": "Sand Sea Dunecrusher",
+        "number": 290,
+        "shape": "normal",
+        "set": "export1",
+        "position": "315"
+    },
+    {
+        "card_name": "Surge of Vigor",
+        "number": 363,
+        "shape": "normal",
+        "set": "export1",
+        "position": "246"
+    },
+    {
+        "card_name": "Sandstorm Seer",
+        "number": 64,
+        "shape": "normal",
+        "set": "export1",
+        "position": "176"
+    },
+    {
+        "card_name": "Possibility Surfer",
+        "number": 140,
+        "shape": "normal",
+        "set": "export1",
+        "position": "105"
+    },
+    {
+        "card_name": "Soulstrand Harmonist",
+        "number": 218,
+        "shape": "transform double faced",
+        "set": "export1",
+        "position": "306"
+    },
+    {
+        "card_name": "Scorched Memories",
+        "number": 291,
+        "shape": "normal",
+        "set": "export1",
+        "position": "444"
+    },
+    {
+        "card_name": "Surgeform Infiltration",
+        "number": 364,
+        "shape": "normal",
+        "set": "export1",
+        "position": "275"
+    },
+    {
+        "card_name": "Scrupulous Veteran",
+        "number": 65,
+        "shape": "normal",
+        "set": "export1",
+        "position": "541"
+    },
+    {
+        "card_name": "Prancing Automaton",
+        "number": 141,
+        "shape": "normal",
+        "set": "export1",
+        "position": "119"
+    },
+    {
+        "card_name": "Sow Decay",
+        "number": 219,
+        "shape": "normal",
+        "set": "export1",
+        "position": "408"
+    },
+    {
+        "card_name": "Sculptor of Agonies",
+        "number": 292,
+        "shape": "normal",
+        "set": "export1",
+        "position": "70"
+    },
+    {
+        "card_name": "Sylvia, the Forest's Pulse",
+        "number": 365,
+        "shape": "normal",
+        "set": "export1",
+        "position": "469"
+    },
+    {
+        "card_name": "Sculptor of Quintessence",
+        "number": 66,
+        "shape": "normal",
+        "set": "export1",
+        "position": "351"
+    },
+    {
+        "card_name": "Rainer's Bauble",
+        "number": 142,
+        "shape": "normal",
+        "set": "export1",
+        "position": "117"
+    },
+    {
+        "card_name": "Stormscour Incursion",
+        "number": 220,
+        "shape": "normal",
+        "set": "export1",
+        "position": "421"
+    },
+    {
+        "card_name": "Searing Outburst",
+        "number": 293,
+        "shape": "normal",
+        "set": "export1",
+        "position": "68"
+    },
+    {
+        "card_name": "Syvian, Scion of Duality",
+        "number": 366,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "514"
+    },
+    {
+        "card_name": "Soulflame Keeper",
+        "number": 67,
+        "shape": "normal",
+        "set": "export1",
+        "position": "308"
+    },
+    {
+        "card_name": "Ritual of Revelation",
+        "number": 143,
+        "shape": "normal",
+        "set": "export1",
+        "position": "546"
+    },
+    {
+        "card_name": "Stormwinnowed Drake",
+        "number": 221,
+        "shape": "normal",
+        "set": "export1",
+        "position": "422"
+    },
+    {
+        "card_name": "Set Ablaze",
+        "number": 294,
+        "shape": "normal",
+        "set": "export1",
+        "position": "51"
+    },
+    {
+        "card_name": "Tap The Forest's Pulse",
+        "number": 367,
+        "shape": "normal",
+        "set": "export1",
+        "position": "533"
+    },
+    {
+        "card_name": "Spire Sentinel",
+        "number": 68,
+        "shape": "normal",
+        "set": "export1",
+        "position": "327"
+    },
+    {
+        "card_name": "Shadowbind Incantation",
+        "number": 144,
+        "shape": "normal",
+        "set": "export1",
+        "position": "346"
+    },
+    {
+        "card_name": "Swarmed by Graspwings",
+        "number": 222,
+        "shape": "normal",
+        "set": "export1",
+        "position": "24"
+    },
+    {
+        "card_name": "Skittering Symbiont",
+        "number": 295,
+        "shape": "normal",
+        "set": "export1",
+        "position": "67"
+    },
+    {
+        "card_name": "Tenacious Ooze",
+        "number": 368,
+        "shape": "normal",
+        "set": "export1",
+        "position": "416"
+    },
+    {
+        "card_name": "Spireloft Patrician",
+        "number": 69,
+        "shape": "normal",
+        "set": "export1",
+        "position": "162"
+    },
+    {
+        "card_name": "Shaper of Surreality",
+        "number": 145,
+        "shape": "normal",
+        "set": "export1",
+        "position": "460"
+    },
+    {
+        "card_name": "Taikun, Arbiter of Oblivion",
+        "number": 223,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "286"
+    },
+    {
+        "card_name": "Smoldering Hulk",
+        "number": 296,
+        "shape": "transform double faced",
+        "set": "export1",
+        "position": "88"
+    },
+    {
+        "card_name": "Thicket Crusher",
+        "number": 369,
+        "shape": "normal",
+        "set": "export1",
+        "position": "279"
+    },
+    {
+        "card_name": "Spiretop Sandflitter",
+        "number": 70,
+        "shape": "normal",
+        "set": "export1",
+        "position": "325"
+    },
+    {
+        "card_name": "Siphon Chaos",
+        "number": 146,
+        "shape": "normal",
+        "set": "export1",
+        "position": "393"
+    },
+    {
+        "card_name": "Titanfall Witness",
+        "number": 224,
+        "shape": "normal",
+        "set": "export1",
+        "position": "516"
+    },
+    {
+        "card_name": "Spitfire Elemental",
+        "number": 297,
+        "shape": "normal",
+        "set": "export1",
+        "position": "74"
+    },
+    {
+        "card_name": "Undergrowth Scavenger",
+        "number": 370,
+        "shape": "normal",
+        "set": "export1",
+        "position": "412"
+    },
+    {
+        "card_name": "Strange Matter",
+        "number": 71,
+        "shape": "normal",
+        "set": "export1",
+        "position": "171"
+    },
+    {
+        "card_name": "Spiremage's Containment",
+        "number": 147,
+        "shape": "normal",
+        "set": "export1",
+        "position": "108"
+    },
+    {
+        "card_name": "Tranan's Advance",
+        "number": 225,
+        "shape": "saga",
+        "set": "export1",
+        "position": "481"
+    },
+    {
+        "card_name": "Steadfast Scourge",
+        "number": 298,
+        "shape": "normal",
+        "set": "export1",
+        "position": "79"
+    },
+    {
+        "card_name": "Undergrowth Stalker",
+        "number": 371,
+        "shape": "normal",
+        "set": "export1",
+        "position": "411"
+    },
+    {
+        "card_name": "Succumb to the Sands",
+        "number": 72,
+        "shape": "normal",
+        "set": "export1",
+        "position": "499"
+    },
+    {
+        "card_name": "Spiretop Waygate",
+        "number": 148,
+        "shape": "normal",
+        "set": "export1",
+        "position": "407"
+    },
+    {
+        "card_name": "Umbral Apparition",
+        "number": 226,
+        "shape": "normal",
+        "set": "export1",
+        "position": "392"
+    },
+    {
+        "card_name": "Storm's Eye",
+        "number": 299,
+        "shape": "normal",
+        "set": "export1",
+        "position": "75"
+    },
+    {
+        "card_name": "Verdant-Flame Convergence",
+        "number": 372,
+        "shape": "normal",
+        "set": "export1",
+        "position": "153"
+    },
+    {
+        "card_name": "Surreal Sublimation",
+        "number": 73,
+        "shape": "normal",
+        "set": "export1",
+        "position": "95"
+    },
+    {
+        "card_name": "Split Reality",
+        "number": 149,
+        "shape": "normal",
+        "set": "export1",
+        "position": "121"
+    },
+    {
+        "card_name": "Unbidden Arrival",
+        "number": 227,
+        "shape": "normal",
+        "set": "export1",
+        "position": "19"
+    },
+    {
+        "card_name": "Surgical Strike",
+        "number": 300,
+        "shape": "normal",
+        "set": "export1",
+        "position": "496"
+    },
+    {
+        "card_name": "Vessel of Endless Increase",
+        "number": 373,
+        "shape": "normal",
+        "set": "export1",
+        "position": "249"
+    },
+    {
+        "card_name": "Surveyor of the End",
+        "number": 74,
+        "shape": "normal",
+        "set": "export1",
+        "position": "442"
+    },
+    {
+        "card_name": "Spontaneous Discontinuity",
+        "number": 150,
+        "shape": "normal",
+        "set": "export1",
+        "position": "479"
+    },
+    {
+        "card_name": "Undergrowth Prowler",
+        "number": 228,
+        "shape": "normal",
+        "set": "export1",
+        "position": "426"
+    },
+    {
+        "card_name": "Swift Bludgeoner",
+        "number": 301,
+        "shape": "normal",
+        "set": "export1",
+        "position": "84"
+    },
+    {
+        "card_name": "Vicious Vinemass",
+        "number": 374,
+        "shape": "normal",
+        "set": "export1",
+        "position": "156"
+    },
+    {
+        "card_name": "Swiftstrike Adept",
+        "number": 75,
+        "shape": "normal",
+        "set": "export1",
+        "position": "402"
+    },
+    {
+        "card_name": "Starborne Steed",
+        "number": 151,
+        "shape": "normal",
+        "set": "export1",
+        "position": "129"
+    },
+    {
+        "card_name": "Vampiric Disciple",
+        "number": 229,
+        "shape": "normal",
+        "set": "export1",
+        "position": "510"
+    },
+    {
+        "card_name": "Terror of the Forgepeaks",
+        "number": 302,
+        "shape": "normal",
+        "set": "export1",
+        "position": "305"
+    },
+    {
+        "card_name": "Vitalheart Elemental",
+        "number": 375,
+        "shape": "normal",
+        "set": "export1",
+        "position": "342"
+    },
+    {
+        "card_name": "Tanhide Pouncer",
+        "number": 76,
+        "shape": "normal",
+        "set": "export1",
+        "position": "338"
+    },
+    {
+        "card_name": "Stellar Residuum",
+        "number": 152,
+        "shape": "normal",
+        "set": "export1",
+        "position": "461"
+    },
+    {
+        "card_name": "Vessel of Final Moments",
+        "number": 230,
+        "shape": "normal",
+        "set": "export1",
+        "position": "255"
+    },
+    {
+        "card_name": "Vengeant Flamekeeper",
+        "number": 303,
+        "shape": "normal",
+        "set": "export1",
+        "position": "54"
+    },
+    {
+        "card_name": "Weary Wayfinder",
+        "number": 376,
+        "shape": "normal",
+        "set": "export1",
+        "position": "406"
+    },
+    {
+        "card_name": "Ternus, the Immemorial",
+        "number": 77,
+        "shape": "normal",
+        "set": "export1",
+        "position": "525"
+    },
+    {
+        "card_name": "Stormheart Elemental",
+        "number": 153,
+        "shape": "normal",
+        "set": "export1",
+        "position": "295"
+    },
+    {
+        "card_name": "Vindictive Vindicator",
+        "number": 231,
+        "shape": "normal",
+        "set": "export1",
+        "position": "268"
+    },
+    {
+        "card_name": "Vessel of Brutal Instinct",
+        "number": 304,
+        "shape": "normal",
+        "set": "export1",
+        "position": "64"
+    },
+    {
+        "card_name": "Weaver of Majesty",
+        "number": 377,
+        "shape": "normal",
+        "set": "export1",
+        "position": "399"
+    },
+    {
+        "card_name": "Timeless Marshal",
+        "number": 78,
+        "shape": "normal",
+        "set": "export1",
+        "position": "476"
+    },
+    {
+        "card_name": "Stormshaper's Prowess",
+        "number": 154,
+        "shape": "normal",
+        "set": "export1",
+        "position": "478"
+    },
+    {
+        "card_name": "Voracious Viper",
+        "number": 232,
+        "shape": "normal",
+        "set": "export1",
+        "position": "29"
+    },
+    {
+        "card_name": "Volcranox, Core Unbound",
+        "number": 305,
+        "shape": "normal",
+        "set": "export1",
+        "position": "63"
+    },
+    {
+        "card_name": "Wild Unity",
+        "number": 378,
+        "shape": "normal",
+        "set": "export1",
+        "position": "141"
+    },
+    {
+        "card_name": "Unravel",
+        "number": 79,
+        "shape": "normal",
+        "set": "export1",
+        "position": "350"
+    },
+    {
+        "card_name": "Stormsquall Harrier",
+        "number": 155,
+        "shape": "normal",
+        "set": "export1",
+        "position": "127"
+    },
+    {
+        "card_name": "Waning Light's Usurper",
+        "number": 233,
+        "shape": "normal",
+        "set": "export1",
+        "position": "10"
+    },
+    {
+        "card_name": "Voltaic Discharge",
+        "number": 306,
+        "shape": "normal",
+        "set": "export1",
+        "position": "384"
+    },
+    {
+        "card_name": "Wildway Herald",
+        "number": 379,
+        "shape": "normal",
+        "set": "export1",
+        "position": "329"
+    },
+    {
+        "card_name": "Unyielding Doctrine",
+        "number": 80,
+        "shape": "normal",
+        "set": "export1",
+        "position": "235"
+    },
+    {
+        "card_name": "Timeless Orthodoxy",
+        "number": 156,
+        "shape": "saga",
+        "set": "export1",
+        "position": "551"
+    },
+    {
+        "card_name": "Wasteborn Monstrosity",
+        "number": 234,
+        "shape": "normal",
+        "set": "export1",
+        "position": "333"
+    },
+    {
+        "card_name": "Whisperflame Executioner",
+        "number": 307,
+        "shape": "normal",
+        "set": "export1",
+        "position": "94"
+    },
+    {
+        "card_name": "Woodland Munchcrawler",
+        "number": 380,
+        "shape": "normal",
+        "set": "export1",
+        "position": "151"
+    },
+    {
+        "card_name": "Wayfarer's Finesse",
+        "number": 81,
+        "shape": "normal",
+        "set": "export1",
+        "position": "326"
+    },
+    {
+        "card_name": "Unstable Waygate",
+        "number": 157,
+        "shape": "normal",
+        "set": "export1",
+        "position": "120"
+    },
+    {
+        "card_name": "Winnowing Winds",
+        "number": 235,
+        "shape": "normal",
+        "set": "export1",
+        "position": "18"
+    },
+    {
+        "card_name": "White-Iron Sural",
+        "number": 308,
+        "shape": "normal",
+        "set": "export1",
+        "position": "332"
+    },
+    {
+        "card_name": "Woodweave Symbiote",
+        "number": 381,
+        "shape": "normal",
+        "set": "export1",
+        "position": "294"
+    },
+    {
+        "card_name": "Weavers' Ascension",
+        "number": 82,
+        "shape": "normal",
+        "set": "export1",
+        "position": "170"
+    },
+    {
+        "card_name": "Vessel of Impermanent Truths",
+        "number": 158,
+        "shape": "normal",
+        "set": "export1",
+        "position": "131"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Worldly Disciple",
+        "number": 382,
+        "shape": "normal",
+        "set": "export1",
+        "position": "511"
+    },
+    {
+        "card_name": "Weaver's Favor",
+        "number": 83,
+        "shape": "saga",
+        "set": "export1",
+        "position": "561"
+    },
+    {
+        "card_name": "Vexing Riftwing",
+        "number": 159,
+        "shape": "normal",
+        "set": "export1",
+        "position": "494"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Yivana, Grovewarden",
+        "number": 383,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "150"
+    },
+    {
+        "card_name": "Weftplate Adept",
+        "number": 84,
+        "shape": "normal",
+        "set": "export1",
+        "position": "473"
+    },
+    {
+        "card_name": "Warp Into Inexistence",
+        "number": 160,
+        "shape": "normal",
+        "set": "export1",
+        "position": "335"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Zenaya, Fracture Conduit",
+        "number": 161,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "130"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Zith, Aberrant Iconoclast",
+        "number": 162,
+        "shape": "normal",
+        "set": "export1",
+        "position": "302"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Melas, Auburnwood Guardian",
+        "number": 415,
+        "shape": "normal",
+        "set": "export1",
+        "position": "264"
+    },
+    {
+        "card_name": "Ashiok, Ruinous Curator",
+        "number": 390,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "474"
+    },
+    {
+        "card_name": "Baneful Strix",
+        "number": 392,
+        "shape": "normal",
+        "set": "export1",
+        "position": "538"
+    },
+    {
+        "card_name": "Essenceflow Ascetic",
+        "number": 403,
+        "shape": "normal",
+        "set": "export1",
+        "position": "300"
+    },
+    {
+        "card_name": "Ansal, Bestower of Form",
+        "number": 387,
+        "shape": "normal",
+        "set": "export1",
+        "position": "234"
+    },
+    {
+        "card_name": "Runemaster's Acumen",
+        "number": 429,
+        "shape": "normal",
+        "set": "export1",
+        "position": "563"
+    },
+    {
+        "card_name": "Darien, Thought Auditor",
+        "number": 394,
+        "shape": "normal",
+        "set": "export1",
+        "position": "258"
+    },
+    {
+        "card_name": "Descend Into Chaos",
+        "number": 395,
+        "shape": "normal",
+        "set": "export1",
+        "position": "59"
+    },
+    {
+        "card_name": "Imbued Vitality",
+        "number": 407,
+        "shape": "normal",
+        "set": "export1",
+        "position": "251"
+    },
+    {
+        "card_name": "Asari, Paragon of Tenacity",
+        "number": 389,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "236"
+    },
+    {
+        "card_name": "Sara, Essence Transmuter",
+        "number": 430,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "339"
+    },
+    {
+        "card_name": "Devouring Delusion",
+        "number": 397,
+        "shape": "normal",
+        "set": "export1",
+        "position": "267"
+    },
+    {
+        "card_name": "Inexorable Dread",
+        "number": 409,
+        "shape": "normal",
+        "set": "export1",
+        "position": "269"
+    },
+    {
+        "card_name": "Namuna, Primogenitor",
+        "number": 417,
+        "shape": "normal",
+        "set": "export1",
+        "position": "278"
+    },
+    {
+        "card_name": "Haleful Strix",
+        "number": 405,
+        "shape": "normal",
+        "set": "export1",
+        "position": "537"
+    },
+    {
+        "card_name": "Truthbreaker",
+        "number": 440,
+        "shape": "normal",
+        "set": "export1",
+        "position": "288"
+    },
+    {
+        "card_name": "Jezir, the Living Lie",
+        "number": 411,
+        "shape": "normal",
+        "set": "export1",
+        "position": "436"
+    },
+    {
+        "card_name": "Tranan, the Unrelenting",
+        "number": 439,
+        "shape": "normal",
+        "set": "export1",
+        "position": "454"
+    },
+    {
+        "card_name": "Rena, Harmonious Stormsage",
+        "number": 424,
+        "shape": "normal",
+        "set": "export1",
+        "position": "280"
+    },
+    {
+        "card_name": "Orinn, Fierce Advocate",
+        "number": 421,
+        "shape": "normal",
+        "set": "export1",
+        "position": "555"
+    },
+    {
+        "card_name": "Vessel of Timeless Order",
+        "number": 447,
+        "shape": "normal",
+        "set": "export1",
+        "position": "284"
+    },
+    {
+        "card_name": "Liminal Prowler",
+        "number": 413,
+        "shape": "normal",
+        "set": "export1",
+        "position": "11"
+    },
+    {
+        "card_name": "Vehement Light's Vengeance",
+        "number": 443,
+        "shape": "saga",
+        "set": "export1",
+        "position": "550"
+    },
+    {
+        "card_name": "Rite of Abundance",
+        "number": 427,
+        "shape": "normal",
+        "set": "export1",
+        "position": "277"
+    },
+    {
+        "card_name": "Syan Ranger",
+        "number": 435,
+        "shape": "normal",
+        "set": "export1",
+        "position": "238"
+    },
+    {
+        "card_name": "Willful Strix",
+        "number": 450,
+        "shape": "normal",
+        "set": "export1",
+        "position": "554"
+    },
+    {
+        "card_name": "The Stars Succumb",
+        "number": 433,
+        "shape": "saga",
+        "set": "export1",
+        "position": "571"
+    },
+    {
+        "card_name": "Vessel of Vehement Light",
+        "number": 448,
+        "shape": "normal",
+        "set": "export1",
+        "position": "270"
+    },
+    {
+        "card_name": "Vistril, Invigorating Interloper",
+        "number": 449,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "544"
+    },
+    {
+        "card_name": "Thriving Biome",
+        "number": 438,
+        "shape": "normal",
+        "set": "export1",
+        "position": "233"
+    },
+    {
+        "card_name": "Sureflight Griffin",
+        "number": 454,
+        "shape": "normal",
+        "set": "export1",
+        "position": "322"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Eidolic Arcanist",
+        "number": 398,
+        "shape": "normal",
+        "set": "export1",
+        "position": "435"
+    },
+    {
+        "card_name": "Arcing Stormbolt",
+        "number": 388,
+        "shape": "normal",
+        "set": "export1",
+        "position": "252"
+    },
+    {
+        "card_name": "Acrid, Acolyte of Erosion",
+        "number": 384,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "467"
+    },
+    {
+        "card_name": "Amediel, the Last Bastion",
+        "number": 386,
+        "shape": "normal",
+        "set": "export1",
+        "position": "239"
+    },
+    {
+        "card_name": "Azra, the Dreamer",
+        "number": 391,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "518"
+    },
+    {
+        "card_name": "Emelia, Seeker of Surreality",
+        "number": 401,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "484"
+    },
+    {
+        "card_name": "Energetic Influx",
+        "number": 402,
+        "shape": "normal",
+        "set": "export1",
+        "position": "567"
+    },
+    {
+        "card_name": "Despoil",
+        "number": 396,
+        "shape": "normal",
+        "set": "export1",
+        "position": "227"
+    },
+    {
+        "card_name": "Battlewise Veteran",
+        "number": 393,
+        "shape": "normal",
+        "set": "export1",
+        "position": "240"
+    },
+    {
+        "card_name": "Fractureform Conjuration",
+        "number": 404,
+        "shape": "normal",
+        "set": "export1",
+        "position": "524"
+    },
+    {
+        "card_name": "Herald of Annihilation",
+        "number": 406,
+        "shape": "normal",
+        "set": "export1",
+        "position": "257"
+    },
+    {
+        "card_name": "Inali, the Crackling Horizon",
+        "number": 408,
+        "shape": "normal",
+        "set": "export1",
+        "position": "262"
+    },
+    {
+        "card_name": "Murkstream Summoning",
+        "number": 416,
+        "shape": "normal",
+        "set": "export1",
+        "position": "569"
+    },
+    {
+        "card_name": "Lightblades' Consecration",
+        "number": 412,
+        "shape": "saga",
+        "set": "export1",
+        "position": "570"
+    },
+    {
+        "card_name": "Nazar, Cultivator of Excess",
+        "number": 418,
+        "shape": "normal",
+        "set": "export1",
+        "position": "98"
+    },
+    {
+        "card_name": "Prideful Strix",
+        "number": 422,
+        "shape": "normal",
+        "set": "export1",
+        "position": "552"
+    },
+    {
+        "card_name": "Malkara, Runesage",
+        "number": 414,
+        "shape": "normal",
+        "set": "export1",
+        "position": "285"
+    },
+    {
+        "card_name": "Olakul, Undergrowth Regent",
+        "number": 419,
+        "shape": "normal",
+        "set": "export1",
+        "position": "230"
+    },
+    {
+        "card_name": "Righteous Rearming",
+        "number": 425,
+        "shape": "normal",
+        "set": "export1",
+        "position": "441"
+    },
+    {
+        "card_name": "Rootwarp Symbiote",
+        "number": 428,
+        "shape": "normal",
+        "set": "export1",
+        "position": "330"
+    },
+    {
+        "card_name": "Tahaz, Ardent Idealist",
+        "number": 436,
+        "shape": "normal",
+        "set": "export1",
+        "position": "520"
+    },
+    {
+        "card_name": "The World Fracture",
+        "number": 451,
+        "shape": "saga",
+        "set": "export1",
+        "position": "482"
+    },
+    {
+        "card_name": "Ord, Festering Hulk",
+        "number": 420,
+        "shape": "normal",
+        "set": "export1",
+        "position": "225"
+    },
+    {
+        "card_name": "Riko, Arcwielder",
+        "number": 426,
+        "shape": "normal",
+        "set": "export1",
+        "position": "244"
+    },
+    {
+        "card_name": "Shatterbloom",
+        "number": 431,
+        "shape": "normal",
+        "set": "export1",
+        "position": "562"
+    },
+    {
+        "card_name": "Vessel of Bleeding Boundaries",
+        "number": 445,
+        "shape": "normal",
+        "set": "export1",
+        "position": "492"
+    },
+    {
+        "card_name": "Zestful Strix",
+        "number": 452,
+        "shape": "normal",
+        "set": "export1",
+        "position": "553"
+    },
+    {
+        "card_name": "Undergrowth Ritechanter",
+        "number": 442,
+        "shape": "normal",
+        "set": "export1",
+        "position": "232"
+    },
+    {
+        "card_name": "Surestrike Paragon",
+        "number": 434,
+        "shape": "normal",
+        "set": "export1",
+        "position": "566"
+    },
+    {
+        "card_name": "Tryana, Life's Majesty",
+        "number": 441,
+        "shape": "normal",
+        "set": "export1",
+        "position": "250"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Vessel of Augmentation",
+        "number": 444,
+        "shape": "normal",
+        "set": "export1",
+        "position": "438"
+    },
+    {
+        "card_name": "Skath, Forge Tyrant",
+        "number": 432,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "522"
+    },
+    {
+        "card_name": "Vessel of Forever's Torment",
+        "number": 446,
+        "shape": "normal",
+        "set": "export1",
+        "position": "263"
+    },
+    {
+        "card_name": "Aetta, Unity of Will",
+        "number": 385,
+        "shape": "normal",
+        "set": "export1",
+        "position": "265"
+    },
+    {
+        "card_name": "Irana, Molder of Forms",
+        "number": 410,
+        "shape": "normal",
+        "set": "export1",
+        "position": "464"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Elaine, Element Threader",
+        "number": 399,
+        "shape": "normal",
+        "set": "export1",
+        "position": "371"
+    },
+    {
+        "card_name": "Tet, Eternal Shepherd",
+        "number": 437,
+        "shape": "normal",
+        "set": "export1",
+        "position": "283"
+    },
+    {
+        "card_name": "Elan, Master of Forms",
+        "number": 400,
+        "shape": "normal",
+        "set": "export1",
+        "position": "513"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Atraxa, Sinister Surveyor",
+        "number": 453,
+        "shape": "normal",
+        "set": "export1",
+        "position": "500"
+    },
+    {
+        "card_name": "Primacy",
+        "number": 423,
+        "shape": "normal",
+        "set": "export1",
+        "position": "560"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Architect of Domination",
+        "number": 1,
+        "shape": "normal",
+        "set": "export1",
+        "position": "480"
+    },
+    {
+        "card_name": "Formless Titan",
+        "number": 2,
+        "shape": "normal",
+        "set": "export1",
+        "position": "404"
+    },
+    {
+        "card_name": "Insomnivore",
+        "number": 3,
+        "shape": "normal",
+        "set": "export1",
+        "position": "490"
+    },
+    {
+        "card_name": "Locus of Chaos",
+        "number": 4,
+        "shape": "normal",
+        "set": "export1",
+        "position": "276"
+    },
+    {
+        "card_name": "Magestic Hexwing",
+        "number": 5,
+        "shape": "normal",
+        "set": "export1",
+        "position": "512"
+    },
+    {
+        "card_name": "Nim, Planar Intruder",
+        "number": 6,
+        "shape": "planeswalker",
+        "set": "export1",
+        "position": "504"
+    },
+    {
+        "card_name": "Nullform Entity",
+        "number": 7,
+        "shape": "normal",
+        "set": "export1",
+        "position": "373"
+    },
+    {
+        "card_name": "Void Rift",
+        "number": 8,
+        "shape": "normal",
+        "set": "export1",
+        "position": "443"
+    },
+    {
+        "card_name": "Aetherizing Blade",
+        "number": 455,
+        "shape": "normal",
+        "set": "export1",
+        "position": "548"
+    },
+    {
+        "card_name": "Anticausal Body",
+        "number": 456,
+        "shape": "normal",
+        "set": "export1",
+        "position": "260"
+    },
+    {
+        "card_name": "Arcstitch Golem",
+        "number": 457,
+        "shape": "normal",
+        "set": "export1",
+        "position": "35"
+    },
+    {
+        "card_name": "Astrographer's Trinket",
+        "number": 458,
+        "shape": "normal",
+        "set": "export1",
+        "position": "34"
+    },
+    {
+        "card_name": "Crackleform Javelin",
+        "number": 459,
+        "shape": "normal",
+        "set": "export1",
+        "position": "452"
+    },
+    {
+        "card_name": "Crackling Blade",
+        "number": 460,
+        "shape": "normal",
+        "set": "export1",
+        "position": "33"
+    },
+    {
+        "card_name": "Earthshaper Golem",
+        "number": 461,
+        "shape": "normal",
+        "set": "export1",
+        "position": "379"
+    },
+    {
+        "card_name": "The Enigma Matrix",
+        "number": 462,
+        "shape": "normal",
+        "set": "export1",
+        "position": "448"
+    },
+    {
+        "card_name": "Essenceform Obelisk",
+        "number": 463,
+        "shape": "normal",
+        "set": "export1",
+        "position": "231"
+    },
+    {
+        "card_name": "Fluxfield Nucleus",
+        "number": 464,
+        "shape": "normal",
+        "set": "export1",
+        "position": "378"
+    },
+    {
+        "card_name": "Font of Becoming",
+        "number": 465,
+        "shape": "normal",
+        "set": "export1",
+        "position": "32"
+    },
+    {
+        "card_name": "Fractureform Bauble",
+        "number": 466,
+        "shape": "normal",
+        "set": "export1",
+        "position": "47"
+    },
+    {
+        "card_name": "Fracturetracer's Anklet",
+        "number": 467,
+        "shape": "normal",
+        "set": "export1",
+        "position": "36"
+    },
+    {
+        "card_name": "Genesis Bauble",
+        "number": 468,
+        "shape": "normal",
+        "set": "export1",
+        "position": "37"
+    },
+    {
+        "card_name": "Genesis Stone",
+        "number": 469,
+        "shape": "normal",
+        "set": "export1",
+        "position": "523"
+    },
+    {
+        "card_name": "Hollowed Bauble",
+        "number": 470,
+        "shape": "normal",
+        "set": "export1",
+        "position": "38"
+    },
+    {
+        "card_name": "Horizon Trawler",
+        "number": 471,
+        "shape": "transform double faced",
+        "set": "export1",
+        "position": "48"
+    },
+    {
+        "card_name": "Idyllic Bauble",
+        "number": 472,
+        "shape": "normal",
+        "set": "export1",
+        "position": "40"
+    },
+    {
+        "card_name": "Immaterial Edge",
+        "number": 473,
+        "shape": "normal",
+        "set": "export1",
+        "position": "451"
+    },
+    {
+        "card_name": "Imposing Edifice",
+        "number": 474,
+        "shape": "normal",
+        "set": "export1",
+        "position": "39"
+    },
+    {
+        "card_name": "Intrepid Bauble",
+        "number": 475,
+        "shape": "normal",
+        "set": "export1",
+        "position": "41"
+    },
+    {
+        "card_name": "Lifeseed Obelisks",
+        "number": 476,
+        "shape": "normal",
+        "set": "export1",
+        "position": "449"
+    },
+    {
+        "card_name": "Lifestrand Threader",
+        "number": 477,
+        "shape": "normal",
+        "set": "export1",
+        "position": "290"
+    },
+    {
+        "card_name": "Manaflow Anchor",
+        "number": 478,
+        "shape": "normal",
+        "set": "export1",
+        "position": "405"
+    },
+    {
+        "card_name": "Monument to Generosity",
+        "number": 479,
+        "shape": "normal",
+        "set": "export1",
+        "position": "457"
+    },
+    {
+        "card_name": "Mox Magnetite",
+        "number": 480,
+        "shape": "normal",
+        "set": "export1",
+        "position": "527"
+    },
+    {
+        "card_name": "Prismatic Bauble",
+        "number": 481,
+        "shape": "normal",
+        "set": "export1",
+        "position": "42"
+    },
+    {
+        "card_name": "Ravaged Bauble",
+        "number": 482,
+        "shape": "normal",
+        "set": "export1",
+        "position": "43"
+    },
+    {
+        "card_name": "Serpent's Bond",
+        "number": 483,
+        "shape": "normal",
+        "set": "export1",
+        "position": "547"
+    },
+    {
+        "card_name": "Shield of the Intangible",
+        "number": 484,
+        "shape": "normal",
+        "set": "export1",
+        "position": "471"
+    },
+    {
+        "card_name": "Smoldering Capsule",
+        "number": 485,
+        "shape": "normal",
+        "set": "export1",
+        "position": "248"
+    },
+    {
+        "card_name": "Solace",
+        "number": 486,
+        "shape": "normal",
+        "set": "export1",
+        "position": "377"
+    },
+    {
+        "card_name": "Steady Automaton",
+        "number": 487,
+        "shape": "normal",
+        "set": "export1",
+        "position": "331"
+    },
+    {
+        "card_name": "Thrumming Gem",
+        "number": 488,
+        "shape": "normal",
+        "set": "export1",
+        "position": "273"
+    },
+    {
+        "card_name": "Transmuting Pool",
+        "number": 489,
+        "shape": "normal",
+        "set": "export1",
+        "position": "465"
+    },
+    {
+        "card_name": "Umbral Bauble",
+        "number": 490,
+        "shape": "normal",
+        "set": "export1",
+        "position": "44"
+    },
+    {
+        "card_name": "Undergrowth Bauble",
+        "number": 491,
+        "shape": "normal",
+        "set": "export1",
+        "position": "45"
+    },
+    {
+        "card_name": "Untamed Waygate",
+        "number": 492,
+        "shape": "normal",
+        "set": "export1",
+        "position": "50"
+    },
+    {
+        "card_name": "Untethered Bauble",
+        "number": 493,
+        "shape": "normal",
+        "set": "export1",
+        "position": "46"
+    },
+    {
+        "card_name": "Vivid Bauble",
+        "number": 494,
+        "shape": "normal",
+        "set": "export1",
+        "position": "49"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "The Sand Sea",
+        "number": 522,
+        "shape": "normal",
+        "set": "export1",
+        "position": "367"
+    },
+    {
+        "card_name": "Conscious Coast",
+        "number": 499,
+        "shape": "normal",
+        "set": "export1",
+        "position": "536"
+    },
+    {
+        "card_name": "The Undergrowth, Festering Haven",
+        "number": 546,
+        "shape": "normal",
+        "set": "export1",
+        "position": "215"
+    },
+    {
+        "card_name": "Unstable Lavaflows",
+        "number": 549,
+        "shape": "normal",
+        "set": "export1",
+        "position": "226"
+    },
+    {
+        "card_name": "The Syan Forest",
+        "number": 544,
+        "shape": "normal",
+        "set": "export1",
+        "position": "214"
+    },
+    {
+        "card_name": "Unstable Dunes",
+        "number": 547,
+        "shape": "normal",
+        "set": "export1",
+        "position": "310"
+    },
+    {
+        "card_name": "The Great Fracture",
+        "number": 512,
+        "shape": "normal",
+        "set": "export1",
+        "position": "336"
+    },
+    {
+        "card_name": "Unstable Quagmire",
+        "number": 550,
+        "shape": "normal",
+        "set": "export1",
+        "position": "247"
+    },
+    {
+        "card_name": "Vivid Crag",
+        "number": 553,
+        "shape": "normal",
+        "set": "export1",
+        "position": "218"
+    },
+    {
+        "card_name": "Unstable Woodland",
+        "number": 551,
+        "shape": "normal",
+        "set": "export1",
+        "position": "3"
+    },
+    {
+        "card_name": "Vivid Meadow",
+        "number": 557,
+        "shape": "normal",
+        "set": "export1",
+        "position": "222"
+    },
+    {
+        "card_name": "Unstable Isle",
+        "number": 548,
+        "shape": "normal",
+        "set": "export1",
+        "position": "287"
+    },
+    {
+        "card_name": "Vivid Marsh",
+        "number": 556,
+        "shape": "normal",
+        "set": "export1",
+        "position": "221"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Vivid Grove",
+        "number": 555,
+        "shape": "normal",
+        "set": "export1",
+        "position": "220"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Vivid Creek",
+        "number": 554,
+        "shape": "normal",
+        "set": "export1",
+        "position": "219"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Eerie Snowcaps",
+        "number": 505,
+        "shape": "normal",
+        "set": "export1",
+        "position": "187"
+    },
+    {
+        "card_name": "Eerie Marsh",
+        "number": 503,
+        "shape": "normal",
+        "set": "export1",
+        "position": "185"
+    },
+    {
+        "card_name": "Blood Crypt",
+        "number": 496,
+        "shape": "normal",
+        "set": "export1",
+        "position": "358"
+    },
+    {
+        "card_name": "Eerie Barrens",
+        "number": 500,
+        "shape": "normal",
+        "set": "export1",
+        "position": "182"
+    },
+    {
+        "card_name": "Eerie Expanse",
+        "number": 501,
+        "shape": "normal",
+        "set": "export1",
+        "position": "183"
+    },
+    {
+        "card_name": "Hallowed Fountain",
+        "number": 514,
+        "shape": "normal",
+        "set": "export1",
+        "position": "354"
+    },
+    {
+        "card_name": "Scattered Delta",
+        "number": 526,
+        "shape": "normal",
+        "set": "export1",
+        "position": "201"
+    },
+    {
+        "card_name": "Eerie Ruins",
+        "number": 504,
+        "shape": "normal",
+        "set": "export1",
+        "position": "186"
+    },
+    {
+        "card_name": "Scattered Foothills",
+        "number": 528,
+        "shape": "normal",
+        "set": "export1",
+        "position": "202"
+    },
+    {
+        "card_name": "Scattered Prairie",
+        "number": 531,
+        "shape": "normal",
+        "set": "export1",
+        "position": "205"
+    },
+    {
+        "card_name": "Scattered Snowcaps",
+        "number": 532,
+        "shape": "normal",
+        "set": "export1",
+        "position": "206"
+    },
+    {
+        "card_name": "Watery Grave",
+        "number": 558,
+        "shape": "normal",
+        "set": "export1",
+        "position": "360"
+    },
+    {
+        "card_name": "Grimhall, Legion Stronghold",
+        "number": 513,
+        "shape": "modal double faced",
+        "set": "export1",
+        "position": "216"
+    },
+    {
+        "card_name": "Stomping Ground",
+        "number": 541,
+        "shape": "normal",
+        "set": "export1",
+        "position": "359"
+    },
+    {
+        "card_name": "Sya, Eternal Giver",
+        "number": 543,
+        "shape": "modal double faced",
+        "set": "export1",
+        "position": "531"
+    },
+    {
+        "card_name": "Sunspire, Glistening Citadel",
+        "number": 542,
+        "shape": "modal double faced",
+        "set": "export1",
+        "position": "493"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Scattered Craglands",
+        "number": 525,
+        "shape": "normal",
+        "set": "export1",
+        "position": "200"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Temple Garden",
+        "number": 545,
+        "shape": "normal",
+        "set": "export1",
+        "position": "362"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Eerie Wastes",
+        "number": 509,
+        "shape": "normal",
+        "set": "export1",
+        "position": "191"
+    },
+    {
+        "card_name": "Eerie Starfield",
+        "number": 506,
+        "shape": "normal",
+        "set": "export1",
+        "position": "188"
+    },
+    {
+        "card_name": "Eerie Undergrowth",
+        "number": 508,
+        "shape": "normal",
+        "set": "export1",
+        "position": "190"
+    },
+    {
+        "card_name": "Eerie Steppes",
+        "number": 507,
+        "shape": "normal",
+        "set": "export1",
+        "position": "189"
+    },
+    {
+        "card_name": "Breeding Pool",
+        "number": 498,
+        "shape": "normal",
+        "set": "export1",
+        "position": "356"
+    },
+    {
+        "card_name": "Godless Shrine",
+        "number": 511,
+        "shape": "normal",
+        "set": "export1",
+        "position": "357"
+    },
+    {
+        "card_name": "Scattered Firepeaks",
+        "number": 527,
+        "shape": "normal",
+        "set": "export1",
+        "position": "208"
+    },
+    {
+        "card_name": "Overgrown Tomb",
+        "number": 519,
+        "shape": "normal",
+        "set": "export1",
+        "position": "361"
+    },
+    {
+        "card_name": "Sacred Foundry",
+        "number": 521,
+        "shape": "normal",
+        "set": "export1",
+        "position": "355"
+    },
+    {
+        "card_name": "Eerie Grove",
+        "number": 502,
+        "shape": "normal",
+        "set": "export1",
+        "position": "184"
+    },
+    {
+        "card_name": "Scattered Marshlands",
+        "number": 529,
+        "shape": "normal",
+        "set": "export1",
+        "position": "203"
+    },
+    {
+        "card_name": "Steam Vents",
+        "number": 540,
+        "shape": "normal",
+        "set": "export1",
+        "position": "353"
+    },
+    {
+        "card_name": "Scattered Bog",
+        "number": 524,
+        "shape": "normal",
+        "set": "export1",
+        "position": "199"
+    },
+    {
+        "card_name": "Scattered Plateau",
+        "number": 530,
+        "shape": "normal",
+        "set": "export1",
+        "position": "204"
+    },
+    {
+        "card_name": "Scattered Wetlands",
+        "number": 533,
+        "shape": "normal",
+        "set": "export1",
+        "position": "207"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Arid Mesa",
+        "number": 495,
+        "shape": "normal",
+        "set": "export1",
+        "position": "180"
+    },
+    {
+        "card_name": "Bloodstained Mire",
+        "number": 497,
+        "shape": "normal",
+        "set": "export1",
+        "position": "181"
+    },
+    {
+        "card_name": "Flooded Strand",
+        "number": 510,
+        "shape": "normal",
+        "set": "export1",
+        "position": "192"
+    },
+    {
+        "card_name": "Highspire Gardens",
+        "number": 515,
+        "shape": "normal",
+        "set": "export1",
+        "position": "540"
+    },
+    {
+        "card_name": "Mana Confluence",
+        "number": 516,
+        "shape": "normal",
+        "set": "export1",
+        "position": "193"
+    },
+    {
+        "card_name": "Marsh Flats",
+        "number": 517,
+        "shape": "normal",
+        "set": "export1",
+        "position": "194"
+    },
+    {
+        "card_name": "Misty Rainforest",
+        "number": 518,
+        "shape": "normal",
+        "set": "export1",
+        "position": "195"
+    },
+    {
+        "card_name": "Polluted Delta",
+        "number": 520,
+        "shape": "normal",
+        "set": "export1",
+        "position": "196"
+    },
+    {
+        "card_name": "Scalding Tarn",
+        "number": 523,
+        "shape": "normal",
+        "set": "export1",
+        "position": "198"
+    },
+    {
+        "card_name": "Shifting Bayou",
+        "number": 534,
+        "shape": "normal",
+        "set": "export1",
+        "position": "209"
+    },
+    {
+        "card_name": "Shifting Mire",
+        "number": 535,
+        "shape": "normal",
+        "set": "export1",
+        "position": "210"
+    },
+    {
+        "card_name": "Shifting Quagmire",
+        "number": 536,
+        "shape": "normal",
+        "set": "export1",
+        "position": "213"
+    },
+    {
+        "card_name": "Shifting Riverbeds",
+        "number": 537,
+        "shape": "normal",
+        "set": "export1",
+        "position": "212"
+    },
+    {
+        "card_name": "Shifting Sands",
+        "number": 538,
+        "shape": "normal",
+        "set": "export1",
+        "position": "211"
+    },
+    {
+        "card_name": "Stagnant Mill",
+        "number": 539,
+        "shape": "normal",
+        "set": "export1",
+        "position": "197"
+    },
+    {
+        "card_name": "Verdant Catacombs",
+        "number": 552,
+        "shape": "normal",
+        "set": "export1",
+        "position": "217"
+    },
+    {
+        "card_name": "Windswept Heath",
+        "number": 559,
+        "shape": "normal",
+        "set": "export1",
+        "position": "223"
+    },
+    {
+        "card_name": "Wooded Foothills",
+        "number": 560,
+        "shape": "normal",
+        "set": "export1",
+        "position": "224"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Fragment",
+        "number": 1,
+        "shape": "token",
+        "set": "export1",
+        "position": "491"
+    },
+    {
+        "card_name": "Giant",
+        "number": 2,
+        "shape": "token",
+        "set": "export1",
+        "position": "568"
+    },
+    {
+        "card_name": "Illusion",
+        "number": 3,
+        "shape": "token",
+        "set": "export1",
+        "position": "497"
+    },
+    {
+        "card_name": "Illusion.",
+        "number": 4,
+        "shape": "token",
+        "set": "export1",
+        "position": "556"
+    },
+    {
+        "card_name": "Knight",
+        "number": 5,
+        "shape": "token",
+        "set": "export1",
+        "position": "489"
+    },
+    {
+        "card_name": "Fang",
+        "number": 11,
+        "shape": "token",
+        "set": "export1",
+        "position": "557"
+    },
+    {
+        "card_name": "Weapon",
+        "number": 12,
+        "shape": "token",
+        "set": "export1",
+        "position": "558"
+    },
+    {
+        "card_name": "Wolf",
+        "number": 6,
+        "shape": "token",
+        "set": "export1",
+        "position": "528"
+    },
+    {
+        "card_name": "Elemental",
+        "number": 7,
+        "shape": "token",
+        "set": "export1",
+        "position": "486"
+    },
+    {
+        "card_name": "Elemental.",
+        "number": 8,
+        "shape": "token",
+        "set": "export1",
+        "position": "487"
+    },
+    {
+        "card_name": "Plant",
+        "number": 9,
+        "shape": "token",
+        "set": "export1",
+        "position": "515"
+    },
+    {
+        "card_name": "Wolf.",
+        "number": 10,
+        "shape": "token",
+        "set": "export1",
+        "position": "559"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

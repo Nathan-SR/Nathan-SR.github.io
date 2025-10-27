@@ -1,0 +1,7514 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Desolate Revelation",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/0.png"
+			}
+		},
+		{
+			"name": "Eldritch Amalgam",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/1.png"
+			}
+		},
+		{
+			"name": "Hysteria",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/2.png"
+			}
+		},
+		{
+			"name": "Unstable Woodland",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "551",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/3.png"
+			}
+		},
+		{
+			"name": "Inevitable End",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/4.png"
+			}
+		},
+		{
+			"name": "Shadowkin Stalker",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment Creature — Cat",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/5.png"
+			}
+		},
+		{
+			"name": "Resurgence Ritual",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/6.png"
+			}
+		},
+		{
+			"name": "Resolute Veteran",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/7.png"
+			}
+		},
+		{
+			"name": "Ruthless Legionnaire",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "211",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nathan-SR.github.io/sets/-files/img/8_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/8_front.png"
+			}
+		},
+		{
+			"name": "Peer Into the Void",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/9.png"
+			}
+		},
+		{
+			"name": "Waning Light's Usurper",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/10.png"
+			}
+		},
+		{
+			"name": "Liminal Prowler",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment Creature — Beast",
+			"collector_number": "413",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/11.png"
+			}
+		},
+		{
+			"name": "Kiyin, Ancient Despot",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Spirit Dragon",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/12.png"
+			}
+		},
+		{
+			"name": "Dunecrest Sellsword",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/13.png"
+			}
+		},
+		{
+			"name": "Lissa, Dismantler of Truth",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Planeswalker — Lissa",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/14.png"
+			}
+		},
+		{
+			"name": "Asha, Horizon Sentinel",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Angel Warrior",
+			"collector_number": "12",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nathan-SR.github.io/sets/-files/img/15_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/15_front.png"
+			}
+		},
+		{
+			"name": "Ira, Architect of Delusion",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Horror",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/16.png"
+			}
+		},
+		{
+			"name": "Pyrrhic Elimination",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/17.png"
+			}
+		},
+		{
+			"name": "Winnowing Winds",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/18.png"
+			}
+		},
+		{
+			"name": "Unbidden Arrival",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/19.png"
+			}
+		},
+		{
+			"name": "Forsaken Remnant",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment Creature — Human",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/20.png"
+			}
+		},
+		{
+			"name": "Engulfing Shadows",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/21.png"
+			}
+		},
+		{
+			"name": "Grim Verdict",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/22.png"
+			}
+		},
+		{
+			"name": "Shadowseam Magistrate",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/23.png"
+			}
+		},
+		{
+			"name": "Swarmed by Graspwings",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/24.png"
+			}
+		},
+		{
+			"name": "Obfuscate",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/25.png"
+			}
+		},
+		{
+			"name": "Coax from Beyond",
+			"rarity": "rare",
+			"mana_cost": "{8}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/26.png"
+			}
+		},
+		{
+			"name": "Disciple of the Cycle",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Spirit Cleric",
+			"collector_number": "170",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nathan-SR.github.io/sets/-files/img/27_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/27_front.png"
+			}
+		},
+		{
+			"name": "Grimhall Proctor",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit Horror",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/28.png"
+			}
+		},
+		{
+			"name": "Voracious Viper",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Snake",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/29.png"
+			}
+		},
+		{
+			"name": "Legion Operative",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/30.png"
+			}
+		},
+		{
+			"name": "All Costs",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/31.png"
+			}
+		},
+		{
+			"name": "Font of Becoming",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Enchantment Artifact — Fragment",
+			"collector_number": "465",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/32.png"
+			}
+		},
+		{
+			"name": "Crackling Blade",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "460",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/33.png"
+			}
+		},
+		{
+			"name": "Astrographer's Trinket",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "458",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/34.png"
+			}
+		},
+		{
+			"name": "Arcstitch Golem",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "457",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/35.png"
+			}
+		},
+		{
+			"name": "Fracturetracer's Anklet",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "467",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/36.png"
+			}
+		},
+		{
+			"name": "Genesis Bauble",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "468",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/37.png"
+			}
+		},
+		{
+			"name": "Hollowed Bauble",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "470",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/38.png"
+			}
+		},
+		{
+			"name": "Imposing Edifice",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "474",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/39.png"
+			}
+		},
+		{
+			"name": "Idyllic Bauble",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "472",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/40.png"
+			}
+		},
+		{
+			"name": "Intrepid Bauble",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "475",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/41.png"
+			}
+		},
+		{
+			"name": "Prismatic Bauble",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "481",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/42.png"
+			}
+		},
+		{
+			"name": "Ravaged Bauble",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "482",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/43.png"
+			}
+		},
+		{
+			"name": "Umbral Bauble",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "490",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/44.png"
+			}
+		},
+		{
+			"name": "Undergrowth Bauble",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "491",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/45.png"
+			}
+		},
+		{
+			"name": "Untethered Bauble",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "493",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/46.png"
+			}
+		},
+		{
+			"name": "Fractureform Bauble",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "466",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/47.png"
+			}
+		},
+		{
+			"name": "Horizon Trawler",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "471",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nathan-SR.github.io/sets/-files/img/48_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/48_front.png"
+			}
+		},
+		{
+			"name": "Vivid Bauble",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "494",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/49.png"
+			}
+		},
+		{
+			"name": "Untamed Waygate",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "492",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/50.png"
+			}
+		},
+		{
+			"name": "Set Ablaze",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/51.png"
+			}
+		},
+		{
+			"name": "Legion Instigator",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/52.png"
+			}
+		},
+		{
+			"name": "Arcing Elimination",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/53.png"
+			}
+		},
+		{
+			"name": "Vengeant Flamekeeper",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/54.png"
+			}
+		},
+		{
+			"name": "Legion Harrier",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/55.png"
+			}
+		},
+		{
+			"name": "Dauntless Duneblade",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/56.png"
+			}
+		},
+		{
+			"name": "Battlerune Adept",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/57.png"
+			}
+		},
+		{
+			"name": "Magmaw Behemoth",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Elemental Giant",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/58.png"
+			}
+		},
+		{
+			"name": "Descend Into Chaos",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "395",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/59.png"
+			}
+		},
+		{
+			"name": "Chaos Channeler",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Demon Wizard",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/60.png"
+			}
+		},
+		{
+			"name": "Naian, Pyre Guardian",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Planeswalker — Naian",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/61.png"
+			}
+		},
+		{
+			"name": "Daring Expeditioner",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "254",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nathan-SR.github.io/sets/-files/img/62_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/62_front.png"
+			}
+		},
+		{
+			"name": "Volcranox, Core Unbound",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Legendary Creature — Elemental",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/63.png"
+			}
+		},
+		{
+			"name": "Vessel of Brutal Instinct",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Enchantment Creature — Horror",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/64.png"
+			}
+		},
+		{
+			"name": "Living-Stone Snapper",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Snake",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/65.png"
+			}
+		},
+		{
+			"name": "Elise, Pitiless Marshal",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/66.png"
+			}
+		},
+		{
+			"name": "Skittering Symbiont",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/67.png"
+			}
+		},
+		{
+			"name": "Searing Outburst",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/68.png"
+			}
+		},
+		{
+			"name": "Living-Stone Legionnaire",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental Warrior",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/69.png"
+			}
+		},
+		{
+			"name": "Sculptor of Agonies",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/70.png"
+			}
+		},
+		{
+			"name": "Firemind Ignus",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/71.png"
+			}
+		},
+		{
+			"name": "Blazewing",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/72.png"
+			}
+		},
+		{
+			"name": "Flamewreathed Blade",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/73.png"
+			}
+		},
+		{
+			"name": "Spitfire Elemental",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/74.png"
+			}
+		},
+		{
+			"name": "Storm's Eye",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/75.png"
+			}
+		},
+		{
+			"name": "Living-Stone Sentry",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/76.png"
+			}
+		},
+		{
+			"name": "Effigy Cultist",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Cultist",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/77.png"
+			}
+		},
+		{
+			"name": "Chargestrike Lancer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/78.png"
+			}
+		},
+		{
+			"name": "Steadfast Scourge",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Squirrel Warrior",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/79.png"
+			}
+		},
+		{
+			"name": "Inferno's Intimation",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/80.png"
+			}
+		},
+		{
+			"name": "Demeris, Sunblight Cultist",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/81.png"
+			}
+		},
+		{
+			"name": "Flowstone Artisan",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Druid",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/82.png"
+			}
+		},
+		{
+			"name": "Athros, Passion Shaper",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Planeswalker — Athros",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/83.png"
+			}
+		},
+		{
+			"name": "Swift Bludgeoner",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/84.png"
+			}
+		},
+		{
+			"name": "Molten Symbiont",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/85.png"
+			}
+		},
+		{
+			"name": "Battle Trance",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/86.png"
+			}
+		},
+		{
+			"name": "Immolating Vortex",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/87.png"
+			}
+		},
+		{
+			"name": "Smoldering Hulk",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "296",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nathan-SR.github.io/sets/-files/img/88_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/88_front.png"
+			}
+		},
+		{
+			"name": "Conjure the Inferno",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/89.png"
+			}
+		},
+		{
+			"name": "Carnage Crafter",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Demon Warlock",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/90.png"
+			}
+		},
+		{
+			"name": "Final Promise",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/91.png"
+			}
+		},
+		{
+			"name": "Firebrand Champion",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/92.png"
+			}
+		},
+		{
+			"name": "Decree of Conflagration",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Instant",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/93.png"
+			}
+		},
+		{
+			"name": "Whisperflame Executioner",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/94.png"
+			}
+		},
+		{
+			"name": "Surreal Sublimation",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/95.png"
+			}
+		},
+		{
+			"name": "Hadi, the Unbound Mind",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/96.png"
+			}
+		},
+		{
+			"name": "Archmage's Orrery",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/97.png"
+			}
+		},
+		{
+			"name": "Nazar, Cultivator of Excess",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Dryad Mystic",
+			"collector_number": "418",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/98.png"
+			}
+		},
+		{
+			"name": "Overcharge",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/99.png"
+			}
+		},
+		{
+			"name": "Gloamshaper",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/100.png"
+			}
+		},
+		{
+			"name": "Diffuse Reality",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "101",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nathan-SR.github.io/sets/-files/img/101_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/101_front.png"
+			}
+		},
+		{
+			"name": "Crackling Dominator",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/102.png"
+			}
+		},
+		{
+			"name": "Daredevil Essencecourser",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/103.png"
+			}
+		},
+		{
+			"name": "Cyclonic Disruptor",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/104.png"
+			}
+		},
+		{
+			"name": "Possibility Surfer",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/105.png"
+			}
+		},
+		{
+			"name": "Desperate Deflection",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/106.png"
+			}
+		},
+		{
+			"name": "Facet Reader",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "111",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nathan-SR.github.io/sets/-files/img/107_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/107_front.png"
+			}
+		},
+		{
+			"name": "Spiremage's Containment",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/108.png"
+			}
+		},
+		{
+			"name": "Cracklesnapper Drake",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Drake",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/109.png"
+			}
+		},
+		{
+			"name": "Desert Dealings",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/110.png"
+			}
+		},
+		{
+			"name": "Paramount Potential",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/111.png"
+			}
+		},
+		{
+			"name": "Mistrune Ancient",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Goat",
+			"collector_number": "130",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nathan-SR.github.io/sets/-files/img/112_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/112_front.png"
+			}
+		},
+		{
+			"name": "Morphing Manifesation",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/113.png"
+			}
+		},
+		{
+			"name": "Chaotic Recall",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/114.png"
+			}
+		},
+		{
+			"name": "Enigmatic Traversal",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/115.png"
+			}
+		},
+		{
+			"name": "Forbidding Winds",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/116.png"
+			}
+		},
+		{
+			"name": "Rainer's Bauble",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/117.png"
+			}
+		},
+		{
+			"name": "Oversaturate",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/118.png"
+			}
+		},
+		{
+			"name": "Prancing Automaton",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Beast Construct",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/119.png"
+			}
+		},
+		{
+			"name": "Unstable Waygate",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/120.png"
+			}
+		},
+		{
+			"name": "Split Reality",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/121.png"
+			}
+		},
+		{
+			"name": "Evictor of Reality",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Enchantment Creature — Giant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/122.png"
+			}
+		},
+		{
+			"name": "Enforcer of Uniformity",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/123.png"
+			}
+		},
+		{
+			"name": "Logic Diffractor",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/124.png"
+			}
+		},
+		{
+			"name": "Cognitive Overload",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/125.png"
+			}
+		},
+		{
+			"name": "Illusory Existence",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/126.png"
+			}
+		},
+		{
+			"name": "Stormsquall Harrier",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment Creature — Bird",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/127.png"
+			}
+		},
+		{
+			"name": "Fracturemark Ponderer",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/128.png"
+			}
+		},
+		{
+			"name": "Starborne Steed",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elemental Horse",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/129.png"
+			}
+		},
+		{
+			"name": "Zenaya, Fracture Conduit",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Planeswalker — Zenaya",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/130.png"
+			}
+		},
+		{
+			"name": "Vessel of Impermanent Truths",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/131.png"
+			}
+		},
+		{
+			"name": "Essence Projection",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/132.png"
+			}
+		},
+		{
+			"name": "The Great Devourers",
+			"rarity": "rare",
+			"mana_cost": "{7}{G}{G}",
+			"type": "Legendary Creature — Wurm",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/133.png"
+			}
+		},
+		{
+			"name": "Stormsurge's Bounty",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/134.png"
+			}
+		},
+		{
+			"name": "Petemass Devastator",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Elemental Giant",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/135.png"
+			}
+		},
+		{
+			"name": "Shadebough Ally",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/136.png"
+			}
+		},
+		{
+			"name": "Doubling Season",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/137.png"
+			}
+		},
+		{
+			"name": "Essenceweaver's Artistry",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/138.png"
+			}
+		},
+		{
+			"name": "Bounteous Celebrant",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/139.png"
+			}
+		},
+		{
+			"name": "Overgrown Monolith",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Artifact",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/140.png"
+			}
+		},
+		{
+			"name": "Wild Unity",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "378",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/141.png"
+			}
+		},
+		{
+			"name": "Predate",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/142.png"
+			}
+		},
+		{
+			"name": "Rotfeaster Behemoth",
+			"rarity": "rare",
+			"mana_cost": "{7}{G}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/143.png"
+			}
+		},
+		{
+			"name": "Interminable Flourishing",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/144.png"
+			}
+		},
+		{
+			"name": "Deepmist Prowler",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "328",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nathan-SR.github.io/sets/-files/img/145_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/145_front.png"
+			}
+		},
+		{
+			"name": "Deepglade Guardian",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Centaur Warrior",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/146.png"
+			}
+		},
+		{
+			"name": "Devoted Caretaker",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/147.png"
+			}
+		},
+		{
+			"name": "Close the Cycle",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/148.png"
+			}
+		},
+		{
+			"name": "Essenceweft Aura",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/149.png"
+			}
+		},
+		{
+			"name": "Yivana, Grovewarden",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Planeswalker — Yivana",
+			"collector_number": "383",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/150.png"
+			}
+		},
+		{
+			"name": "Woodland Munchcrawler",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "380",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/151.png"
+			}
+		},
+		{
+			"name": "Essence Channeler",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/152.png"
+			}
+		},
+		{
+			"name": "Verdant-Flame Convergence",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "372",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/153.png"
+			}
+		},
+		{
+			"name": "Ruthless Clash",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/154.png"
+			}
+		},
+		{
+			"name": "Great Cycle Sage",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/155.png"
+			}
+		},
+		{
+			"name": "Vicious Vinemass",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Plant Beast",
+			"collector_number": "374",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/156.png"
+			}
+		},
+		{
+			"name": "Caustic Wanderer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/157.png"
+			}
+		},
+		{
+			"name": "Lifeweaver Adept",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/158.png"
+			}
+		},
+		{
+			"name": "Luminous Disturbance",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/159.png"
+			}
+		},
+		{
+			"name": "Blinding Echoes",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/160.png"
+			}
+		},
+		{
+			"name": "Crippling Crackleform",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/161.png"
+			}
+		},
+		{
+			"name": "Spireloft Patrician",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/162.png"
+			}
+		},
+		{
+			"name": "Resolute Paladin",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/163.png"
+			}
+		},
+		{
+			"name": "Revelatory Dawn",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/164.png"
+			}
+		},
+		{
+			"name": "Gatebound Sovereign",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Warrior Noble",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/165.png"
+			}
+		},
+		{
+			"name": "Equality",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/166.png"
+			}
+		},
+		{
+			"name": "Decoherent Prowler",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/167.png"
+			}
+		},
+		{
+			"name": "Ethereal Wanderer",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/168.png"
+			}
+		},
+		{
+			"name": "Fortitude",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/169.png"
+			}
+		},
+		{
+			"name": "Weavers' Ascension",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/170.png"
+			}
+		},
+		{
+			"name": "Strange Matter",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/171.png"
+			}
+		},
+		{
+			"name": "Desert's Obscuration",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/172.png"
+			}
+		},
+		{
+			"name": "Inspiring Orator",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/173.png"
+			}
+		},
+		{
+			"name": "Manweir, Planar Archivist",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Planeswalker — Manweir",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/174.png"
+			}
+		},
+		{
+			"name": "Phasecloak Combatant",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior Shaman",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/175.png"
+			}
+		},
+		{
+			"name": "Sandstorm Seer",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/176.png"
+			}
+		},
+		{
+			"name": "Attune to the Ethereal",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/177.png"
+			}
+		},
+		{
+			"name": "Sandshroud Infiltrator",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/178.png"
+			}
+		},
+		{
+			"name": "Dunewatch Sentinel",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/179.png"
+			}
+		},
+		{
+			"name": "Arid Mesa",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "495",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/180.png"
+			}
+		},
+		{
+			"name": "Bloodstained Mire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "497",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/181.png"
+			}
+		},
+		{
+			"name": "Eerie Barrens",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "500",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/182.png"
+			}
+		},
+		{
+			"name": "Eerie Expanse",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "501",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/183.png"
+			}
+		},
+		{
+			"name": "Eerie Grove",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "502",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/184.png"
+			}
+		},
+		{
+			"name": "Eerie Marsh",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "503",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/185.png"
+			}
+		},
+		{
+			"name": "Eerie Ruins",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "504",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/186.png"
+			}
+		},
+		{
+			"name": "Eerie Snowcaps",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "505",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/187.png"
+			}
+		},
+		{
+			"name": "Eerie Starfield",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "506",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/188.png"
+			}
+		},
+		{
+			"name": "Eerie Steppes",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "507",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/189.png"
+			}
+		},
+		{
+			"name": "Eerie Undergrowth",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "508",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/190.png"
+			}
+		},
+		{
+			"name": "Eerie Wastes",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "509",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/191.png"
+			}
+		},
+		{
+			"name": "Flooded Strand",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "510",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/192.png"
+			}
+		},
+		{
+			"name": "Mana Confluence",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "516",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/193.png"
+			}
+		},
+		{
+			"name": "Marsh Flats",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "517",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/194.png"
+			}
+		},
+		{
+			"name": "Misty Rainforest",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "518",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/195.png"
+			}
+		},
+		{
+			"name": "Polluted Delta",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "520",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/196.png"
+			}
+		},
+		{
+			"name": "Stagnant Mill",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "539",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/197.png"
+			}
+		},
+		{
+			"name": "Scalding Tarn",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "523",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/198.png"
+			}
+		},
+		{
+			"name": "Scattered Bog",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land — Fragment",
+			"collector_number": "524",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/199.png"
+			}
+		},
+		{
+			"name": "Scattered Craglands",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land — Fragment",
+			"collector_number": "525",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/200.png"
+			}
+		},
+		{
+			"name": "Scattered Delta",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land — Fragment",
+			"collector_number": "526",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/201.png"
+			}
+		},
+		{
+			"name": "Scattered Foothills",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land — Fragment",
+			"collector_number": "528",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/202.png"
+			}
+		},
+		{
+			"name": "Scattered Marshlands",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land — Fragment",
+			"collector_number": "529",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/203.png"
+			}
+		},
+		{
+			"name": "Scattered Plateau",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land — Fragment",
+			"collector_number": "530",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/204.png"
+			}
+		},
+		{
+			"name": "Scattered Prairie",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land — Fragment",
+			"collector_number": "531",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/205.png"
+			}
+		},
+		{
+			"name": "Scattered Snowcaps",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land — Fragment",
+			"collector_number": "532",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/206.png"
+			}
+		},
+		{
+			"name": "Scattered Wetlands",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land — Fragment",
+			"collector_number": "533",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/207.png"
+			}
+		},
+		{
+			"name": "Scattered Firepeaks",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Enchantment Land — Fragment",
+			"collector_number": "527",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/208.png"
+			}
+		},
+		{
+			"name": "Shifting Bayou",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "534",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/209.png"
+			}
+		},
+		{
+			"name": "Shifting Mire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "535",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/210.png"
+			}
+		},
+		{
+			"name": "Shifting Sands",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "538",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/211.png"
+			}
+		},
+		{
+			"name": "Shifting Riverbeds",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "537",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/212.png"
+			}
+		},
+		{
+			"name": "Shifting Quagmire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "536",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/213.png"
+			}
+		},
+		{
+			"name": "The Syan Forest",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "544",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/214.png"
+			}
+		},
+		{
+			"name": "The Undergrowth, Festering Haven",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Swamp",
+			"collector_number": "546",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/215.png"
+			}
+		},
+		{
+			"name": "Grimhall, Legion Stronghold",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "513",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nathan-SR.github.io/sets/-files/img/216_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/216_front.png"
+			}
+		},
+		{
+			"name": "Verdant Catacombs",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "552",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/217.png"
+			}
+		},
+		{
+			"name": "Vivid Crag",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "553",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/218.png"
+			}
+		},
+		{
+			"name": "Vivid Creek",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "554",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/219.png"
+			}
+		},
+		{
+			"name": "Vivid Grove",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "555",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/220.png"
+			}
+		},
+		{
+			"name": "Vivid Marsh",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "556",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/221.png"
+			}
+		},
+		{
+			"name": "Vivid Meadow",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "557",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/222.png"
+			}
+		},
+		{
+			"name": "Windswept Heath",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "559",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/223.png"
+			}
+		},
+		{
+			"name": "Wooded Foothills",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "560",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/224.png"
+			}
+		},
+		{
+			"name": "Ord, Festering Hulk",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Crab",
+			"collector_number": "420",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/225.png"
+			}
+		},
+		{
+			"name": "Unstable Lavaflows",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "549",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/226.png"
+			}
+		},
+		{
+			"name": "Despoil",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Instant",
+			"collector_number": "396",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/227.png"
+			}
+		},
+		{
+			"name": "Portentious Nightwing",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/228.png"
+			}
+		},
+		{
+			"name": "Ebullient Stag",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Elemental Elk",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/229.png"
+			}
+		},
+		{
+			"name": "Olakul, Undergrowth Regent",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "419",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/230.png"
+			}
+		},
+		{
+			"name": "Essenceform Obelisk",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Artifact",
+			"collector_number": "463",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/231.png"
+			}
+		},
+		{
+			"name": "Undergrowth Ritechanter",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "442",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/232.png"
+			}
+		},
+		{
+			"name": "Thriving Biome",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "438",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/233.png"
+			}
+		},
+		{
+			"name": "Ansal, Bestower of Form",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "387",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/234.png"
+			}
+		},
+		{
+			"name": "Unyielding Doctrine",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/235.png"
+			}
+		},
+		{
+			"name": "Asari, Paragon of Tenacity",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Planeswalker — Nasari",
+			"collector_number": "389",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/236.png"
+			}
+		},
+		{
+			"name": "Essenceform Companion",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/237.png"
+			}
+		},
+		{
+			"name": "Syan Ranger",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Centaur Warrior",
+			"collector_number": "435",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/238.png"
+			}
+		},
+		{
+			"name": "Amediel, the Last Bastion",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "386",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/239.png"
+			}
+		},
+		{
+			"name": "Battlewise Veteran",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "393",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/240.png"
+			}
+		},
+		{
+			"name": "Arc, the Flame's Crest",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/241.png"
+			}
+		},
+		{
+			"name": "Edge, the Whistling Sand",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/242.png"
+			}
+		},
+		{
+			"name": "Patrician's Procession",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/243.png"
+			}
+		},
+		{
+			"name": "Riko, Arcwielder",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "426",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/244.png"
+			}
+		},
+		{
+			"name": "Omenwarders",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Elf Cleric",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/245.png"
+			}
+		},
+		{
+			"name": "Surge of Vigor",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/246.png"
+			}
+		},
+		{
+			"name": "Unstable Quagmire",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "550",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/247.png"
+			}
+		},
+		{
+			"name": "Smoldering Capsule",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "485",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/248.png"
+			}
+		},
+		{
+			"name": "Vessel of Endless Increase",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "373",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/249.png"
+			}
+		},
+		{
+			"name": "Tryana, Life's Majesty",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Elk",
+			"collector_number": "441",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/250.png"
+			}
+		},
+		{
+			"name": "Imbued Vitality",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "407",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/251.png"
+			}
+		},
+		{
+			"name": "Arcing Stormbolt",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "388",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/252.png"
+			}
+		},
+		{
+			"name": "Haphazard Spellweaver",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/253.png"
+			}
+		},
+		{
+			"name": "Dynamancer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/254.png"
+			}
+		},
+		{
+			"name": "Vessel of Final Moments",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/255.png"
+			}
+		},
+		{
+			"name": "Refracting Domain",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/256.png"
+			}
+		},
+		{
+			"name": "Herald of Annihilation",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{B}",
+			"type": "Enchantment Creature — Angel",
+			"collector_number": "406",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/257.png"
+			}
+		},
+		{
+			"name": "Darien, Thought Auditor",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "394",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/258.png"
+			}
+		},
+		{
+			"name": "Made Unreal",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/259.png"
+			}
+		},
+		{
+			"name": "Anticausal Body",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "456",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/260.png"
+			}
+		},
+		{
+			"name": "Ilsa, Lurking Dread",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/261.png"
+			}
+		},
+		{
+			"name": "Inali, the Crackling Horizon",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "408",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/262.png"
+			}
+		},
+		{
+			"name": "Vessel of Forever's Torment",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "446",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/263.png"
+			}
+		},
+		{
+			"name": "Melas, Auburnwood Guardian",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Owl Cat",
+			"collector_number": "415",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/264.png"
+			}
+		},
+		{
+			"name": "Aetta, Unity of Will",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "385",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/265.png"
+			}
+		},
+		{
+			"name": "Serpentine Shadow",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Snake",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/266.png"
+			}
+		},
+		{
+			"name": "Devouring Delusion",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "397",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/267.png"
+			}
+		},
+		{
+			"name": "Vindictive Vindicator",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/268.png"
+			}
+		},
+		{
+			"name": "Inexorable Dread",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "409",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/269.png"
+			}
+		},
+		{
+			"name": "Vessel of Vehement Light",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "448",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/270.png"
+			}
+		},
+		{
+			"name": "Remove From Existence",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/271.png"
+			}
+		},
+		{
+			"name": "Anelle, Circumspect Sovereign",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Demon Noble",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/272.png"
+			}
+		},
+		{
+			"name": "Thrumming Gem",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "488",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/273.png"
+			}
+		},
+		{
+			"name": "Ritual of Dying Light",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/274.png"
+			}
+		},
+		{
+			"name": "Surgeform Infiltration",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "364",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/275.png"
+			}
+		},
+		{
+			"name": "Locus of Chaos",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/276.png"
+			}
+		},
+		{
+			"name": "Rite of Abundance",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "427",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/277.png"
+			}
+		},
+		{
+			"name": "Namuna, Primogenitor",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Elder Beast",
+			"collector_number": "417",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/278.png"
+			}
+		},
+		{
+			"name": "Thicket Crusher",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elemental Warrior",
+			"collector_number": "369",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/279.png"
+			}
+		},
+		{
+			"name": "Rena, Harmonious Stormsage",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Elf Shaman",
+			"collector_number": "424",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/280.png"
+			}
+		},
+		{
+			"name": "Fury's Edge",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/281.png"
+			}
+		},
+		{
+			"name": "Shoreshaker Leviathan",
+			"rarity": "rare",
+			"mana_cost": "{7}{G}{G}",
+			"type": "Creature — Leviathan",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/282.png"
+			}
+		},
+		{
+			"name": "Tet, Eternal Shepherd",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Creature — Dragon Mystic",
+			"collector_number": "437",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/283.png"
+			}
+		},
+		{
+			"name": "Vessel of Timeless Order",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "447",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/284.png"
+			}
+		},
+		{
+			"name": "Malkara, Runesage",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "414",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/285.png"
+			}
+		},
+		{
+			"name": "Taikun, Arbiter of Oblivion",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Planeswalker — Taikun",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/286.png"
+			}
+		},
+		{
+			"name": "Unstable Isle",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "548",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/287.png"
+			}
+		},
+		{
+			"name": "Truthbreaker",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{U}{U}",
+			"type": "Enchantment Creature — Avatar",
+			"collector_number": "440",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/288.png"
+			}
+		},
+		{
+			"name": "Manaflow Channeler",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/289.png"
+			}
+		},
+		{
+			"name": "Lifestrand Threader",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "477",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/290.png"
+			}
+		},
+		{
+			"name": "Molten Impacts",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/291.png"
+			}
+		},
+		{
+			"name": "Blazing Triumph",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/292.png"
+			}
+		},
+		{
+			"name": "Breach the Veil",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/293.png"
+			}
+		},
+		{
+			"name": "Woodweave Symbiote",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant Elemental",
+			"collector_number": "381",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/294.png"
+			}
+		},
+		{
+			"name": "Stormheart Elemental",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/295.png"
+			}
+		},
+		{
+			"name": "Edel, Ascendant Inspector",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/296.png"
+			}
+		},
+		{
+			"name": "Moxis, Inertia Mage",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Satyr Wizard",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/297.png"
+			}
+		},
+		{
+			"name": "Disjunction Sage",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/298.png"
+			}
+		},
+		{
+			"name": "Blackened Skies",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/299.png"
+			}
+		},
+		{
+			"name": "Essenceflow Ascetic",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Treefolk Shaman",
+			"collector_number": "403",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/300.png"
+			}
+		},
+		{
+			"name": "Disjunction",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/301.png"
+			}
+		},
+		{
+			"name": "Zith, Aberrant Iconoclast",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Djinn Wizard",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/302.png"
+			}
+		},
+		{
+			"name": "Lightforged Hammer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/303.png"
+			}
+		},
+		{
+			"name": "Lushfang Stalker",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elemental Wolf",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/304.png"
+			}
+		},
+		{
+			"name": "Terror of the Forgepeaks",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/305.png"
+			}
+		},
+		{
+			"name": "Soulstrand Harmonist",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "218",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nathan-SR.github.io/sets/-files/img/306_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/306_front.png"
+			}
+		},
+		{
+			"name": "Examine the Uncharted",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/307.png"
+			}
+		},
+		{
+			"name": "Soulflame Keeper",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/308.png"
+			}
+		},
+		{
+			"name": "One Above All",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/309.png"
+			}
+		},
+		{
+			"name": "Unstable Dunes",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "547",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/310.png"
+			}
+		},
+		{
+			"name": "Dunecrest Thaumaturge",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/311.png"
+			}
+		},
+		{
+			"name": "Evanescent Singularity",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Fragment",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/312.png"
+			}
+		},
+		{
+			"name": "Nihility Weaver",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Wizard Rogue",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/313.png"
+			}
+		},
+		{
+			"name": "Ario, Ambling Verdure",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Elemental",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/314.png"
+			}
+		},
+		{
+			"name": "Sand Sea Dunecrusher",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/315.png"
+			}
+		},
+		{
+			"name": "Dune Reader",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/316.png"
+			}
+		},
+		{
+			"name": "Legion's License",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/317.png"
+			}
+		},
+		{
+			"name": "Indomitable Cleaver",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/318.png"
+			}
+		},
+		{
+			"name": "Rethread",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/319.png"
+			}
+		},
+		{
+			"name": "Nimble Blademaster",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/320.png"
+			}
+		},
+		{
+			"name": "Lightweave Combatant",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/321.png"
+			}
+		},
+		{
+			"name": "Sureflight Griffin",
+			"rarity": "rare",
+			"mana_cost": "{2}{W/U}",
+			"type": "Creature — Griffin",
+			"collector_number": "454",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/322.png"
+			}
+		},
+		{
+			"name": "Condemn to Nothing",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/323.png"
+			}
+		},
+		{
+			"name": "Kindlehorn Stag",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Elemental Elk",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/324.png"
+			}
+		},
+		{
+			"name": "Spiretop Sandflitter",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Drake",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/325.png"
+			}
+		},
+		{
+			"name": "Wayfarer's Finesse",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/326.png"
+			}
+		},
+		{
+			"name": "Spire Sentinel",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Artifact Creature — Warrior Construct",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/327.png"
+			}
+		},
+		{
+			"name": "Boughrender Behemoth",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{3}{G}",
+			"type": "Creature — Plant Elemental",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/328.png"
+			}
+		},
+		{
+			"name": "Wildway Herald",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "379",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/329.png"
+			}
+		},
+		{
+			"name": "Rootwarp Symbiote",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Plant Shapeshifter",
+			"collector_number": "428",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/330.png"
+			}
+		},
+		{
+			"name": "Steady Automaton",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "487",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/331.png"
+			}
+		},
+		{
+			"name": "White-Iron Sural",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/332.png"
+			}
+		},
+		{
+			"name": "Wasteborn Monstrosity",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/333.png"
+			}
+		},
+		{
+			"name": "Bounty of the Undergrowth",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/334.png"
+			}
+		},
+		{
+			"name": "Warp Into Inexistence",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/335.png"
+			}
+		},
+		{
+			"name": "The Great Fracture",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "512",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/336.png"
+			}
+		},
+		{
+			"name": "Evanesce",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/337.png"
+			}
+		},
+		{
+			"name": "Tanhide Pouncer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/338.png"
+			}
+		},
+		{
+			"name": "Sara, Essence Transmuter",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Planeswalker — Sara",
+			"collector_number": "430",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/339.png"
+			}
+		},
+		{
+			"name": "Lifeweaver Mystic",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Mystic",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/340.png"
+			}
+		},
+		{
+			"name": "Behold Destiny",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/341.png"
+			}
+		},
+		{
+			"name": "Vitalheart Elemental",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant Elemental",
+			"collector_number": "375",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/342.png"
+			}
+		},
+		{
+			"name": "Ancient Warden's Effigy",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Artifact",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/343.png"
+			}
+		},
+		{
+			"name": "Ascetic of Strength",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Dryad Shaman",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/344.png"
+			}
+		},
+		{
+			"name": "Lifeshaper Twins",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/345.png"
+			}
+		},
+		{
+			"name": "Shadowbind Incantation",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/346.png"
+			}
+		},
+		{
+			"name": "Mirage Weaver",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior Shaman",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/347.png"
+			}
+		},
+		{
+			"name": "Highspire Regent",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Noble",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/348.png"
+			}
+		},
+		{
+			"name": "Etch, the Enigma",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Planeswalker — Etch",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/349.png"
+			}
+		},
+		{
+			"name": "Unravel",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/350.png"
+			}
+		},
+		{
+			"name": "Sculptor of Quintessence",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/351.png"
+			}
+		},
+		{
+			"name": "Liminality",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/352.png"
+			}
+		},
+		{
+			"name": "Steam Vents",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "540",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/353.png"
+			}
+		},
+		{
+			"name": "Hallowed Fountain",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "514",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/354.png"
+			}
+		},
+		{
+			"name": "Sacred Foundry",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Mountain",
+			"collector_number": "521",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/355.png"
+			}
+		},
+		{
+			"name": "Breeding Pool",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "498",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/356.png"
+			}
+		},
+		{
+			"name": "Godless Shrine",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "511",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/357.png"
+			}
+		},
+		{
+			"name": "Blood Crypt",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "496",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/358.png"
+			}
+		},
+		{
+			"name": "Stomping Ground",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "541",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/359.png"
+			}
+		},
+		{
+			"name": "Watery Grave",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "558",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/360.png"
+			}
+		},
+		{
+			"name": "Overgrown Tomb",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "519",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/361.png"
+			}
+		},
+		{
+			"name": "Temple Garden",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "545",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/362.png"
+			}
+		},
+		{
+			"name": "Agraxis, Pathbreaker",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Demon Warrior",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/363.png"
+			}
+		},
+		{
+			"name": "Oracle of Dead Night",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Wizard",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/364.png"
+			}
+		},
+		{
+			"name": "Fluxwing Fowl",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Bird",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/365.png"
+			}
+		},
+		{
+			"name": "Loam Ritual",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/366.png"
+			}
+		},
+		{
+			"name": "The Sand Sea",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Desert",
+			"collector_number": "522",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/367.png"
+			}
+		},
+		{
+			"name": "Ruthless Expeditioner",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior Scout",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/368.png"
+			}
+		},
+		{
+			"name": "Helena, Light of the Spire",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/369.png"
+			}
+		},
+		{
+			"name": "Malignant Surge",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/370.png"
+			}
+		},
+		{
+			"name": "Elaine, Element Threader",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "399",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/371.png"
+			}
+		},
+		{
+			"name": "Arclight Conjurer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/372.png"
+			}
+		},
+		{
+			"name": "Nullform Entity",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/373.png"
+			}
+		},
+		{
+			"name": "Incinerate",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/374.png"
+			}
+		},
+		{
+			"name": "Dance of the Ethereal",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/375.png"
+			}
+		},
+		{
+			"name": "Decohere",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/376.png"
+			}
+		},
+		{
+			"name": "Solace",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "486",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/377.png"
+			}
+		},
+		{
+			"name": "Fluxfield Nucleus",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "464",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/378.png"
+			}
+		},
+		{
+			"name": "Earthshaper Golem",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "461",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/379.png"
+			}
+		},
+		{
+			"name": "Fracture Entity",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/380.png"
+			}
+		},
+		{
+			"name": "Living-Stone Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/381.png"
+			}
+		},
+		{
+			"name": "Blazing Night",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/382.png"
+			}
+		},
+		{
+			"name": "Cascading Multifurcation",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/383.png"
+			}
+		},
+		{
+			"name": "Voltaic Discharge",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/384.png"
+			}
+		},
+		{
+			"name": "Rally to Chaos",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/385.png"
+			}
+		},
+		{
+			"name": "Saska, Rotborne Conjurer",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Dryad Shaman",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/386.png"
+			}
+		},
+		{
+			"name": "Bestiomancer's Ascension",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/387.png"
+			}
+		},
+		{
+			"name": "Aspect of Growth",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/388.png"
+			}
+		},
+		{
+			"name": "Anima Sage",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/389.png"
+			}
+		},
+		{
+			"name": "Acolyte of Renewal",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/390.png"
+			}
+		},
+		{
+			"name": "Coiling Devourer",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/391.png"
+			}
+		},
+		{
+			"name": "Umbral Apparition",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/392.png"
+			}
+		},
+		{
+			"name": "Siphon Chaos",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/393.png"
+			}
+		},
+		{
+			"name": "Gloomfowl",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Bird",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/394.png"
+			}
+		},
+		{
+			"name": "Dazzling Hypnosis",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/395.png"
+			}
+		},
+		{
+			"name": "Flickering Insight",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/396.png"
+			}
+		},
+		{
+			"name": "Lifeweft Reclaimer",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/397.png"
+			}
+		},
+		{
+			"name": "Austere Starrix",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/398.png"
+			}
+		},
+		{
+			"name": "Weaver of Majesty",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dryad Druid",
+			"collector_number": "377",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/399.png"
+			}
+		},
+		{
+			"name": "Sand Sea Cyclone",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/400.png"
+			}
+		},
+		{
+			"name": "Dunecrest Commander",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/401.png"
+			}
+		},
+		{
+			"name": "Swiftstrike Adept",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/402.png"
+			}
+		},
+		{
+			"name": "In the Eye of the Storm",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/403.png"
+			}
+		},
+		{
+			"name": "Formless Titan",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Enchantment Creature — Giant Horror",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/404.png"
+			}
+		},
+		{
+			"name": "Manaflow Anchor",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "478",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/405.png"
+			}
+		},
+		{
+			"name": "Weary Wayfinder",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "376",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/406.png"
+			}
+		},
+		{
+			"name": "Spiretop Waygate",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/407.png"
+			}
+		},
+		{
+			"name": "Sow Decay",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/408.png"
+			}
+		},
+		{
+			"name": "Ilan, Probability Sculptor",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Planeswalker — Ilan",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/409.png"
+			}
+		},
+		{
+			"name": "Boughborne Ambush",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/410.png"
+			}
+		},
+		{
+			"name": "Undergrowth Stalker",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "371",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/411.png"
+			}
+		},
+		{
+			"name": "Undergrowth Scavenger",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect",
+			"collector_number": "370",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/412.png"
+			}
+		},
+		{
+			"name": "Pursue the Impossible",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/413.png"
+			}
+		},
+		{
+			"name": "Maddened Seer",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Horror Wizard",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/414.png"
+			}
+		},
+		{
+			"name": "Eldritch Tides",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/415.png"
+			}
+		},
+		{
+			"name": "Tenacious Ooze",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Ooze",
+			"collector_number": "368",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/416.png"
+			}
+		},
+		{
+			"name": "Disincorporate",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/417.png"
+			}
+		},
+		{
+			"name": "Shadowseam Apparition",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/418.png"
+			}
+		},
+		{
+			"name": "Reduce",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/419.png"
+			}
+		},
+		{
+			"name": "Descending Shadows",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/420.png"
+			}
+		},
+		{
+			"name": "Stormscour Incursion",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/421.png"
+			}
+		},
+		{
+			"name": "Stormwinnowed Drake",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Drake",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/422.png"
+			}
+		},
+		{
+			"name": "Herald of the Cycle",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/423.png"
+			}
+		},
+		{
+			"name": "New Dawn's Herald",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Elk",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/424.png"
+			}
+		},
+		{
+			"name": "Ruthless Axeman",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/425.png"
+			}
+		},
+		{
+			"name": "Undergrowth Prowler",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Beast",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/426.png"
+			}
+		},
+		{
+			"name": "Sinister Influence",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/427.png"
+			}
+		},
+		{
+			"name": "Shadowskulk Scavenger",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/428.png"
+			}
+		},
+		{
+			"name": "Rend Essence",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/429.png"
+			}
+		},
+		{
+			"name": "Misguided Guardian",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/430.png"
+			}
+		},
+		{
+			"name": "Fallen Arbiter",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment Creature — Angel",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/431.png"
+			}
+		},
+		{
+			"name": "Light's End",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/432.png"
+			}
+		},
+		{
+			"name": "Liminal Hunter",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Warrior Shaman",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/433.png"
+			}
+		},
+		{
+			"name": "Ethereal Puppeteer",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/434.png"
+			}
+		},
+		{
+			"name": "Eidolic Arcanist",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "398",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/435.png"
+			}
+		},
+		{
+			"name": "Jezir, the Living Lie",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Horror Warlock",
+			"collector_number": "411",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/436.png"
+			}
+		},
+		{
+			"name": "Husk of Majesty",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/437.png"
+			}
+		},
+		{
+			"name": "Vessel of Augmentation",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "444",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/438.png"
+			}
+		},
+		{
+			"name": "Ignite the Shadowseam",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/439.png"
+			}
+		},
+		{
+			"name": "Awakening Terrain",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/440.png"
+			}
+		},
+		{
+			"name": "Righteous Rearming",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Instant",
+			"collector_number": "425",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/441.png"
+			}
+		},
+		{
+			"name": "Surveyor of the End",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/442.png"
+			}
+		},
+		{
+			"name": "Void Rift",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Enchantment — Fragment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/443.png"
+			}
+		},
+		{
+			"name": "Scorched Memories",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/444.png"
+			}
+		},
+		{
+			"name": "Clarify",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/445.png"
+			}
+		},
+		{
+			"name": "Lifeforce Attunement",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/446.png"
+			}
+		},
+		{
+			"name": "Shadowspinner's Guile",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/447.png"
+			}
+		},
+		{
+			"name": "The Enigma Matrix",
+			"rarity": "rare",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact",
+			"collector_number": "462",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/448.png"
+			}
+		},
+		{
+			"name": "Lifeseed Obelisks",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "476",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/449.png"
+			}
+		},
+		{
+			"name": "Haggard Smith",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/450.png"
+			}
+		},
+		{
+			"name": "Immaterial Edge",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Enchantment Artifact — Equipment Fragment",
+			"collector_number": "473",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/451.png"
+			}
+		},
+		{
+			"name": "Crackleform Javelin",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "459",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/452.png"
+			}
+		},
+		{
+			"name": "Fracturemage's Meddling",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/453.png"
+			}
+		},
+		{
+			"name": "Tranan, the Unrelenting",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "439",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/454.png"
+			}
+		},
+		{
+			"name": "Skaine, Putrid Eminence",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Zombie Elf Warrior",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/455.png"
+			}
+		},
+		{
+			"name": "Forceful Denial",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/456.png"
+			}
+		},
+		{
+			"name": "Monument to Generosity",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "479",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/457.png"
+			}
+		},
+		{
+			"name": "Haunted Harbinger",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment Creature — Angel Horror",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/458.png"
+			}
+		},
+		{
+			"name": "Cosmic Perception",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/459.png"
+			}
+		},
+		{
+			"name": "Shaper of Surreality",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/460.png"
+			}
+		},
+		{
+			"name": "Stellar Residuum",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Fragment",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/461.png"
+			}
+		},
+		{
+			"name": "Chaos Aperture",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/462.png"
+			}
+		},
+		{
+			"name": "Enigma Keeper",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/463.png"
+			}
+		},
+		{
+			"name": "Irana, Molder of Forms",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Creature — Dragon Wizard",
+			"collector_number": "410",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/464.png"
+			}
+		},
+		{
+			"name": "Transmuting Pool",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "489",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/465.png"
+			}
+		},
+		{
+			"name": "Havoc, Calamity's Edge",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/466.png"
+			}
+		},
+		{
+			"name": "Acrid, Acolyte of Erosion",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Planeswalker — Acrid",
+			"collector_number": "384",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/467.png"
+			}
+		},
+		{
+			"name": "Sand Sea Waygate",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/468.png"
+			}
+		},
+		{
+			"name": "Sylvia, the Forest's Pulse",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Dryad Druid",
+			"collector_number": "365",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/469.png"
+			}
+		},
+		{
+			"name": "Rootmind Collective",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/470.png"
+			}
+		},
+		{
+			"name": "Shield of the Intangible",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "484",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/471.png"
+			}
+		},
+		{
+			"name": "Forever-Tree's Presence",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/472.png"
+			}
+		},
+		{
+			"name": "Weftplate Adept",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — human Warrior",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/473.png"
+			}
+		},
+		{
+			"name": "Ashiok, Ruinous Curator",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Planeswalker — Ashiok",
+			"collector_number": "390",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/474.png"
+			}
+		},
+		{
+			"name": "Ancient Arbiter",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{W}",
+			"type": "Artifact Creature — Angel Construct",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/475.png"
+			}
+		},
+		{
+			"name": "Timeless Marshal",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/476.png"
+			}
+		},
+		{
+			"name": "Dynamic Cognition",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/477.png"
+			}
+		},
+		{
+			"name": "Stormshaper's Prowess",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/478.png"
+			}
+		},
+		{
+			"name": "Spontaneous Discontinuity",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/479.png"
+			}
+		},
+		{
+			"name": "Architect of Domination",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Enchantment Creature — Human",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/480.png"
+			}
+		},
+		{
+			"name": "Tranan's Advance",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/481.png"
+			}
+		},
+		{
+			"name": "The World Fracture",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "451",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/482.png"
+			}
+		},
+		{
+			"name": "The Queen's Collapse",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/483.png"
+			}
+		},
+		{
+			"name": "Emelia, Seeker of Surreality",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Legendary Planeswalker — Emelia",
+			"collector_number": "401",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/484.png"
+			}
+		},
+		{
+			"name": "Entrancing Visions",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "108",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nathan-SR.github.io/sets/-files/img/485_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/485_front.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Cretaure — Elemental",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/486.png"
+			}
+		},
+		{
+			"name": "Elemental.",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/487.png"
+			}
+		},
+		{
+			"name": "Forged by Chaos",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/488.png"
+			}
+		},
+		{
+			"name": "Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Knight",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/489.png"
+			}
+		},
+		{
+			"name": "Insomnivore",
+			"rarity": "rare",
+			"mana_cost": "{8}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/490.png"
+			}
+		},
+		{
+			"name": "Fragment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Fragment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/491.png"
+			}
+		},
+		{
+			"name": "Vessel of Bleeding Boundaries",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Enchantment Creature — Avatar",
+			"collector_number": "445",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/492.png"
+			}
+		},
+		{
+			"name": "Sunspire, Glistening Citadel",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "542",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nathan-SR.github.io/sets/-files/img/493_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/493_front.png"
+			}
+		},
+		{
+			"name": "Vexing Riftwing",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/494.png"
+			}
+		},
+		{
+			"name": "Foretell the Unfathomable",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/495.png"
+			}
+		},
+		{
+			"name": "Surgical Strike",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/496.png"
+			}
+		},
+		{
+			"name": "Illusion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Illusion",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/497.png"
+			}
+		},
+		{
+			"name": "Channel the Storm",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/498.png"
+			}
+		},
+		{
+			"name": "Succumb to the Sands",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/499.png"
+			}
+		},
+		{
+			"name": "Atraxa, Sinister Surveyor",
+			"rarity": "rare",
+			"mana_cost": "{G}{W/B}{U}",
+			"type": "Legendary Creature — Phyrexian Angel Horror",
+			"collector_number": "453",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/500.png"
+			}
+		},
+		{
+			"name": "Kalai, Will of the Untamed",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Planeswalker — Kalai",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/501.png"
+			}
+		},
+		{
+			"name": "Forgeworks Assistant",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/502.png"
+			}
+		},
+		{
+			"name": "Celena, Sand Sea Tamer",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Planeswalker — Celena",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/503.png"
+			}
+		},
+		{
+			"name": "Nim, Planar Intruder",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Legendary Planeswalker — Nim",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/504.png"
+			}
+		},
+		{
+			"name": "Logic Fracture",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/505.png"
+			}
+		},
+		{
+			"name": "Anis, Fractureform Curator",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Anis",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/506.png"
+			}
+		},
+		{
+			"name": "Enlightened Disciple",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/507.png"
+			}
+		},
+		{
+			"name": "Mystical Disciple",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Bird Mystic",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/508.png"
+			}
+		},
+		{
+			"name": "Reckless Disciple",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/509.png"
+			}
+		},
+		{
+			"name": "Vampiric Disciple",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Vampire Mystic",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/510.png"
+			}
+		},
+		{
+			"name": "Worldly Disciple",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elf Mystic",
+			"collector_number": "382",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/511.png"
+			}
+		},
+		{
+			"name": "Magestic Hexwing",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}",
+			"type": "Enchantment Creature — Dragon",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/512.png"
+			}
+		},
+		{
+			"name": "Elan, Master of Forms",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}{W}",
+			"type": "Legendary Creature — Spirit Cleric",
+			"collector_number": "400",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/513.png"
+			}
+		},
+		{
+			"name": "Syvian, Scion of Duality",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Planeswalker — Syvian",
+			"collector_number": "366",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/514.png"
+			}
+		},
+		{
+			"name": "Plant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/515.png"
+			}
+		},
+		{
+			"name": "Titanfall Witness",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/516.png"
+			}
+		},
+		{
+			"name": "Aspect of Genesis",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/517.png"
+			}
+		},
+		{
+			"name": "Azra, the Dreamer",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Planeswalker — Azra",
+			"collector_number": "391",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/518.png"
+			}
+		},
+		{
+			"name": "Primal Animus",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/519.png"
+			}
+		},
+		{
+			"name": "Tahaz, Ardent Idealist",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "436",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/520.png"
+			}
+		},
+		{
+			"name": "Multiplanarity",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/521.png"
+			}
+		},
+		{
+			"name": "Skath, Forge Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Planeswalker — Skath",
+			"collector_number": "432",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/522.png"
+			}
+		},
+		{
+			"name": "Genesis Stone",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "469",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/523.png"
+			}
+		},
+		{
+			"name": "Fractureform Conjuration",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "404",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/524.png"
+			}
+		},
+		{
+			"name": "Ternus, the Immemorial",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Zombie Noble",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/525.png"
+			}
+		},
+		{
+			"name": "Immortal Champion",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/526.png"
+			}
+		},
+		{
+			"name": "Mox Magnetite",
+			"rarity": "rare",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "480",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/527.png"
+			}
+		},
+		{
+			"name": "Wolf",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wolf Spirit",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/528.png"
+			}
+		},
+		{
+			"name": "Ageless Ascetic",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/529.png"
+			}
+		},
+		{
+			"name": "Highspire Pegasus",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Pegasus",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/530.png"
+			}
+		},
+		{
+			"name": "Sya, Eternal Giver",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "543",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Nathan-SR.github.io/sets/-files/img/531_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/531_front.png"
+			}
+		},
+		{
+			"name": "Agent of Chaos",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment Creature — Horror",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/532.png"
+			}
+		},
+		{
+			"name": "Tap The Forest's Pulse",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "367",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/533.png"
+			}
+		},
+		{
+			"name": "Head in the Stars",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/534.png"
+			}
+		},
+		{
+			"name": "Ascendant Veteran",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/535.png"
+			}
+		},
+		{
+			"name": "Conscious Coast",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "499",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/536.png"
+			}
+		},
+		{
+			"name": "Haleful Strix",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "405",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/537.png"
+			}
+		},
+		{
+			"name": "Baneful Strix",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Bird",
+			"collector_number": "392",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/538.png"
+			}
+		},
+		{
+			"name": "Lucent Binding",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/539.png"
+			}
+		},
+		{
+			"name": "Highspire Gardens",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "515",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/540.png"
+			}
+		},
+		{
+			"name": "Scrupulous Veteran",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/541.png"
+			}
+		},
+		{
+			"name": "Moment of Revelation",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/542.png"
+			}
+		},
+		{
+			"name": "Ialuna, Deviant Shardsmith",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Merfolk Wizard",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/543.png"
+			}
+		},
+		{
+			"name": "Vistril, Invigorating Interloper",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Planeswalker — Vistril",
+			"collector_number": "449",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/544.png"
+			}
+		},
+		{
+			"name": "Brutality's Favor",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura Saga",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/545.png"
+			}
+		},
+		{
+			"name": "Ritual of Revelation",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/546.png"
+			}
+		},
+		{
+			"name": "Serpent's Bond",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact — Equipment",
+			"collector_number": "483",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/547.png"
+			}
+		},
+		{
+			"name": "Aetherizing Blade",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "455",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/548.png"
+			}
+		},
+		{
+			"name": "Equanimity",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/549.png"
+			}
+		},
+		{
+			"name": "Vehement Light's Vengeance",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "443",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/550.png"
+			}
+		},
+		{
+			"name": "Timeless Orthodoxy",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/551.png"
+			}
+		},
+		{
+			"name": "Prideful Strix",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "422",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/552.png"
+			}
+		},
+		{
+			"name": "Zestful Strix",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Bird",
+			"collector_number": "452",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/553.png"
+			}
+		},
+		{
+			"name": "Willful Strix",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "450",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/554.png"
+			}
+		},
+		{
+			"name": "Orinn, Fierce Advocate",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "421",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/555.png"
+			}
+		},
+		{
+			"name": "Illusion.",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Illusion",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/556.png"
+			}
+		},
+		{
+			"name": "Fang",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/557.png"
+			}
+		},
+		{
+			"name": "Weapon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/558.png"
+			}
+		},
+		{
+			"name": "Wolf.",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wolf",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/559.png"
+			}
+		},
+		{
+			"name": "Primacy",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{B}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "423",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/560.png"
+			}
+		},
+		{
+			"name": "Weaver's Favor",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura Saga",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/561.png"
+			}
+		},
+		{
+			"name": "Shatterbloom",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment — Fragment",
+			"collector_number": "431",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/562.png"
+			}
+		},
+		{
+			"name": "Runemaster's Acumen",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{U}",
+			"type": "Instant",
+			"collector_number": "429",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/563.png"
+			}
+		},
+		{
+			"name": "Litara, Dune's Radiance",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Litara",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/564.png"
+			}
+		},
+		{
+			"name": "Price of War",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/565.png"
+			}
+		},
+		{
+			"name": "Surestrike Paragon",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "434",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/566.png"
+			}
+		},
+		{
+			"name": "Energetic Influx",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{R}",
+			"type": "Instant",
+			"collector_number": "402",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/567.png"
+			}
+		},
+		{
+			"name": "Giant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Giant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/568.png"
+			}
+		},
+		{
+			"name": "Murkstream Summoning",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "416",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/569.png"
+			}
+		},
+		{
+			"name": "Lightblades' Consecration",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "412",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/570.png"
+			}
+		},
+		{
+			"name": "The Stars Succumb",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "433",
+			"image_uris": {
+				"en": "https://Nathan-SR.github.io/sets/-files/img/571.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Desolate Revelation
+	2 Eldritch Amalgam
+	2 Hysteria
+	2 Unstable Woodland
+	2 Inevitable End
+	2 Shadowkin Stalker
+	2 Resurgence Ritual
+	2 Resolute Veteran
+	2 Ruthless Legionnaire
+	2 Peer Into the Void
+	2 Waning Light's Usurper
+	2 Liminal Prowler
+	2 Kiyin, Ancient Despot
+	2 Dunecrest Sellsword
+	2 Lissa, Dismantler of Truth
+	2 Asha, Horizon Sentinel
+	2 Ira, Architect of Delusion
+	2 Pyrrhic Elimination
+	2 Winnowing Winds
+	2 Unbidden Arrival
+	2 Forsaken Remnant
+	2 Engulfing Shadows
+	2 Grim Verdict
+	2 Shadowseam Magistrate
+	2 Swarmed by Graspwings
+	2 Obfuscate
+	2 Coax from Beyond
+	2 Disciple of the Cycle
+	2 Grimhall Proctor
+	2 Voracious Viper
+	2 Legion Operative
+	2 All Costs
+	2 Font of Becoming
+	2 Crackling Blade
+	2 Astrographer's Trinket
+	2 Arcstitch Golem
+	2 Fracturetracer's Anklet
+	2 Genesis Bauble
+	2 Hollowed Bauble
+	2 Imposing Edifice
+	2 Idyllic Bauble
+	2 Intrepid Bauble
+	2 Prismatic Bauble
+	2 Ravaged Bauble
+	2 Umbral Bauble
+	2 Undergrowth Bauble
+	2 Untethered Bauble
+	2 Fractureform Bauble
+	2 Horizon Trawler
+	2 Vivid Bauble
+	2 Untamed Waygate
+	2 Set Ablaze
+	2 Legion Instigator
+	2 Arcing Elimination
+	2 Vengeant Flamekeeper
+	2 Legion Harrier
+	2 Dauntless Duneblade
+	2 Battlerune Adept
+	2 Magmaw Behemoth
+	2 Descend Into Chaos
+	2 Chaos Channeler
+	2 Naian, Pyre Guardian
+	2 Daring Expeditioner
+	2 Volcranox, Core Unbound
+	2 Vessel of Brutal Instinct
+	2 Living-Stone Snapper
+	2 Elise, Pitiless Marshal
+	2 Skittering Symbiont
+	2 Searing Outburst
+	2 Living-Stone Legionnaire
+	2 Sculptor of Agonies
+	2 Firemind Ignus
+	2 Blazewing
+	2 Flamewreathed Blade
+	2 Spitfire Elemental
+	2 Storm's Eye
+	2 Living-Stone Sentry
+	2 Effigy Cultist
+	2 Chargestrike Lancer
+	2 Steadfast Scourge
+	2 Inferno's Intimation
+	2 Demeris, Sunblight Cultist
+	2 Flowstone Artisan
+	2 Athros, Passion Shaper
+	2 Swift Bludgeoner
+	2 Molten Symbiont
+	2 Battle Trance
+	2 Immolating Vortex
+	2 Smoldering Hulk
+	2 Conjure the Inferno
+	2 Carnage Crafter
+	2 Final Promise
+	2 Firebrand Champion
+	2 Decree of Conflagration
+	2 Whisperflame Executioner
+	2 Surreal Sublimation
+	2 Hadi, the Unbound Mind
+	2 Archmage's Orrery
+	2 Nazar, Cultivator of Excess
+	2 Overcharge
+	2 Gloamshaper
+	2 Diffuse Reality
+	2 Crackling Dominator
+	2 Daredevil Essencecourser
+	2 Cyclonic Disruptor
+	2 Possibility Surfer
+	2 Desperate Deflection
+	2 Facet Reader
+	2 Spiremage's Containment
+	2 Cracklesnapper Drake
+	2 Desert Dealings
+	2 Paramount Potential
+	2 Mistrune Ancient
+	2 Morphing Manifesation
+	2 Chaotic Recall
+	2 Enigmatic Traversal
+	2 Forbidding Winds
+	2 Rainer's Bauble
+	2 Oversaturate
+	2 Prancing Automaton
+	2 Unstable Waygate
+	2 Split Reality
+	2 Evictor of Reality
+	2 Enforcer of Uniformity
+	2 Logic Diffractor
+	2 Cognitive Overload
+	2 Illusory Existence
+	2 Stormsquall Harrier
+	2 Fracturemark Ponderer
+	2 Starborne Steed
+	2 Zenaya, Fracture Conduit
+	2 Vessel of Impermanent Truths
+	2 Essence Projection
+	2 The Great Devourers
+	2 Stormsurge's Bounty
+	2 Petemass Devastator
+	2 Shadebough Ally
+	2 Doubling Season
+	2 Essenceweaver's Artistry
+	2 Bounteous Celebrant
+	2 Overgrown Monolith
+	2 Wild Unity
+	2 Predate
+	2 Rotfeaster Behemoth
+	2 Interminable Flourishing
+	2 Deepmist Prowler
+	2 Deepglade Guardian
+	2 Devoted Caretaker
+	2 Close the Cycle
+	2 Essenceweft Aura
+	2 Yivana, Grovewarden
+	2 Woodland Munchcrawler
+	2 Essence Channeler
+	2 Verdant-Flame Convergence
+	2 Ruthless Clash
+	2 Great Cycle Sage
+	2 Vicious Vinemass
+	2 Caustic Wanderer
+	2 Lifeweaver Adept
+	2 Luminous Disturbance
+	2 Blinding Echoes
+	2 Crippling Crackleform
+	2 Spireloft Patrician
+	2 Resolute Paladin
+	2 Revelatory Dawn
+	2 Gatebound Sovereign
+	2 Equality
+	2 Decoherent Prowler
+	2 Ethereal Wanderer
+	2 Fortitude
+	2 Weavers' Ascension
+	2 Strange Matter
+	2 Desert's Obscuration
+	2 Inspiring Orator
+	2 Manweir, Planar Archivist
+	2 Phasecloak Combatant
+	2 Sandstorm Seer
+	2 Attune to the Ethereal
+	2 Sandshroud Infiltrator
+	2 Dunewatch Sentinel
+	2 Arid Mesa
+	2 Bloodstained Mire
+	2 Eerie Barrens
+	2 Eerie Expanse
+	2 Eerie Grove
+	2 Eerie Marsh
+	2 Eerie Ruins
+	2 Eerie Snowcaps
+	2 Eerie Starfield
+	2 Eerie Steppes
+	2 Eerie Undergrowth
+	2 Eerie Wastes
+	2 Flooded Strand
+	2 Mana Confluence
+	2 Marsh Flats
+	2 Misty Rainforest
+	2 Polluted Delta
+	2 Stagnant Mill
+	2 Scalding Tarn
+	2 Scattered Bog
+	2 Scattered Craglands
+	2 Scattered Delta
+	2 Scattered Foothills
+	2 Scattered Marshlands
+	2 Scattered Plateau
+	2 Scattered Prairie
+	2 Scattered Snowcaps
+	2 Scattered Wetlands
+	2 Scattered Firepeaks
+	2 Shifting Bayou
+	2 Shifting Mire
+	2 Shifting Sands
+	2 Shifting Riverbeds
+	2 Shifting Quagmire
+	2 The Syan Forest
+	2 The Undergrowth, Festering Haven
+	2 Grimhall, Legion Stronghold
+	2 Verdant Catacombs
+	2 Vivid Crag
+	2 Vivid Creek
+	2 Vivid Grove
+	2 Vivid Marsh
+	2 Vivid Meadow
+	2 Windswept Heath
+	2 Wooded Foothills
+	2 Ord, Festering Hulk
+	2 Unstable Lavaflows
+	2 Despoil
+	2 Portentious Nightwing
+	2 Ebullient Stag
+	2 Olakul, Undergrowth Regent
+	2 Essenceform Obelisk
+	2 Undergrowth Ritechanter
+	2 Thriving Biome
+	2 Ansal, Bestower of Form
+	2 Unyielding Doctrine
+	2 Asari, Paragon of Tenacity
+	2 Essenceform Companion
+	2 Syan Ranger
+	2 Amediel, the Last Bastion
+	2 Battlewise Veteran
+	2 Arc, the Flame's Crest
+	2 Edge, the Whistling Sand
+	2 Patrician's Procession
+	2 Riko, Arcwielder
+	2 Omenwarders
+	2 Surge of Vigor
+	2 Unstable Quagmire
+	2 Smoldering Capsule
+	2 Vessel of Endless Increase
+	2 Tryana, Life's Majesty
+	2 Imbued Vitality
+	2 Arcing Stormbolt
+	2 Haphazard Spellweaver
+	2 Dynamancer
+	2 Vessel of Final Moments
+	2 Refracting Domain
+	2 Herald of Annihilation
+	2 Darien, Thought Auditor
+	2 Made Unreal
+	2 Anticausal Body
+	2 Ilsa, Lurking Dread
+	2 Inali, the Crackling Horizon
+	2 Vessel of Forever's Torment
+	2 Melas, Auburnwood Guardian
+	2 Aetta, Unity of Will
+	2 Serpentine Shadow
+	2 Devouring Delusion
+	2 Vindictive Vindicator
+	2 Inexorable Dread
+	2 Vessel of Vehement Light
+	2 Remove From Existence
+	2 Anelle, Circumspect Sovereign
+	2 Thrumming Gem
+	2 Ritual of Dying Light
+	2 Surgeform Infiltration
+	2 Locus of Chaos
+	2 Rite of Abundance
+	2 Namuna, Primogenitor
+	2 Thicket Crusher
+	2 Rena, Harmonious Stormsage
+	2 Fury's Edge
+	2 Shoreshaker Leviathan
+	2 Tet, Eternal Shepherd
+	2 Vessel of Timeless Order
+	2 Malkara, Runesage
+	2 Taikun, Arbiter of Oblivion
+	2 Unstable Isle
+	2 Truthbreaker
+	2 Manaflow Channeler
+	2 Lifestrand Threader
+	2 Molten Impacts
+	2 Blazing Triumph
+	2 Breach the Veil
+	2 Woodweave Symbiote
+	2 Stormheart Elemental
+	2 Edel, Ascendant Inspector
+	2 Moxis, Inertia Mage
+	2 Disjunction Sage
+	2 Blackened Skies
+	2 Essenceflow Ascetic
+	2 Disjunction
+	2 Zith, Aberrant Iconoclast
+	2 Lightforged Hammer
+	2 Lushfang Stalker
+	2 Terror of the Forgepeaks
+	2 Soulstrand Harmonist
+	2 Examine the Uncharted
+	2 Soulflame Keeper
+	2 One Above All
+	2 Unstable Dunes
+	2 Dunecrest Thaumaturge
+	2 Evanescent Singularity
+	2 Nihility Weaver
+	2 Ario, Ambling Verdure
+	2 Sand Sea Dunecrusher
+	2 Dune Reader
+	2 Legion's License
+	2 Indomitable Cleaver
+	2 Rethread
+	2 Nimble Blademaster
+	2 Lightweave Combatant
+	2 Sureflight Griffin
+	2 Condemn to Nothing
+	2 Kindlehorn Stag
+	2 Spiretop Sandflitter
+	2 Wayfarer's Finesse
+	2 Spire Sentinel
+	2 Boughrender Behemoth
+	2 Wildway Herald
+	2 Rootwarp Symbiote
+	2 Steady Automaton
+	2 White-Iron Sural
+	2 Wasteborn Monstrosity
+	2 Bounty of the Undergrowth
+	2 Warp Into Inexistence
+	2 The Great Fracture
+	2 Evanesce
+	2 Tanhide Pouncer
+	2 Sara, Essence Transmuter
+	2 Lifeweaver Mystic
+	2 Behold Destiny
+	2 Vitalheart Elemental
+	2 Ancient Warden's Effigy
+	2 Ascetic of Strength
+	2 Lifeshaper Twins
+	2 Shadowbind Incantation
+	2 Mirage Weaver
+	2 Highspire Regent
+	2 Etch, the Enigma
+	2 Unravel
+	2 Sculptor of Quintessence
+	2 Liminality
+	2 Steam Vents
+	2 Hallowed Fountain
+	2 Sacred Foundry
+	2 Breeding Pool
+	2 Godless Shrine
+	2 Blood Crypt
+	2 Stomping Ground
+	2 Watery Grave
+	2 Overgrown Tomb
+	2 Temple Garden
+	2 Agraxis, Pathbreaker
+	2 Oracle of Dead Night
+	2 Fluxwing Fowl
+	2 Loam Ritual
+	2 The Sand Sea
+	2 Ruthless Expeditioner
+	2 Helena, Light of the Spire
+	2 Malignant Surge
+	2 Elaine, Element Threader
+	2 Arclight Conjurer
+	2 Nullform Entity
+	2 Incinerate
+	2 Dance of the Ethereal
+	2 Decohere
+	2 Solace
+	2 Fluxfield Nucleus
+	2 Earthshaper Golem
+	2 Fracture Entity
+	2 Living-Stone Tyrant
+	2 Blazing Night
+	2 Cascading Multifurcation
+	2 Voltaic Discharge
+	2 Rally to Chaos
+	2 Saska, Rotborne Conjurer
+	2 Bestiomancer's Ascension
+	2 Aspect of Growth
+	2 Anima Sage
+	2 Acolyte of Renewal
+	2 Coiling Devourer
+	2 Umbral Apparition
+	2 Siphon Chaos
+	2 Gloomfowl
+	2 Dazzling Hypnosis
+	2 Flickering Insight
+	2 Lifeweft Reclaimer
+	2 Austere Starrix
+	2 Weaver of Majesty
+	2 Sand Sea Cyclone
+	2 Dunecrest Commander
+	2 Swiftstrike Adept
+	2 In the Eye of the Storm
+	2 Formless Titan
+	2 Manaflow Anchor
+	2 Weary Wayfinder
+	2 Spiretop Waygate
+	2 Sow Decay
+	2 Ilan, Probability Sculptor
+	2 Boughborne Ambush
+	2 Undergrowth Stalker
+	2 Undergrowth Scavenger
+	2 Pursue the Impossible
+	2 Maddened Seer
+	2 Eldritch Tides
+	2 Tenacious Ooze
+	2 Disincorporate
+	2 Shadowseam Apparition
+	2 Reduce
+	2 Descending Shadows
+	2 Stormscour Incursion
+	2 Stormwinnowed Drake
+	2 Herald of the Cycle
+	2 New Dawn's Herald
+	2 Ruthless Axeman
+	2 Undergrowth Prowler
+	2 Sinister Influence
+	2 Shadowskulk Scavenger
+	2 Rend Essence
+	2 Misguided Guardian
+	2 Fallen Arbiter
+	2 Light's End
+	2 Liminal Hunter
+	2 Ethereal Puppeteer
+	2 Eidolic Arcanist
+	2 Jezir, the Living Lie
+	2 Husk of Majesty
+	2 Vessel of Augmentation
+	2 Ignite the Shadowseam
+	2 Awakening Terrain
+	2 Righteous Rearming
+	2 Surveyor of the End
+	2 Void Rift
+	2 Scorched Memories
+	2 Clarify
+	2 Lifeforce Attunement
+	2 Shadowspinner's Guile
+	2 The Enigma Matrix
+	2 Lifeseed Obelisks
+	2 Haggard Smith
+	2 Immaterial Edge
+	2 Crackleform Javelin
+	2 Fracturemage's Meddling
+	2 Tranan, the Unrelenting
+	2 Skaine, Putrid Eminence
+	2 Forceful Denial
+	2 Monument to Generosity
+	2 Haunted Harbinger
+	2 Cosmic Perception
+	2 Shaper of Surreality
+	2 Stellar Residuum
+	2 Chaos Aperture
+	2 Enigma Keeper
+	2 Irana, Molder of Forms
+	2 Transmuting Pool
+	2 Havoc, Calamity's Edge
+	2 Acrid, Acolyte of Erosion
+	2 Sand Sea Waygate
+	2 Sylvia, the Forest's Pulse
+	2 Rootmind Collective
+	2 Shield of the Intangible
+	2 Forever-Tree's Presence
+	2 Weftplate Adept
+	2 Ashiok, Ruinous Curator
+	2 Ancient Arbiter
+	2 Timeless Marshal
+	2 Dynamic Cognition
+	2 Stormshaper's Prowess
+	2 Spontaneous Discontinuity
+	2 Architect of Domination
+	2 Tranan's Advance
+	2 The World Fracture
+	2 The Queen's Collapse
+	2 Emelia, Seeker of Surreality
+	2 Entrancing Visions
+	2 Forged by Chaos
+	2 Insomnivore
+	2 Vessel of Bleeding Boundaries
+	2 Sunspire, Glistening Citadel
+	2 Vexing Riftwing
+	2 Foretell the Unfathomable
+	2 Surgical Strike
+	2 Channel the Storm
+	2 Succumb to the Sands
+	2 Atraxa, Sinister Surveyor
+	2 Kalai, Will of the Untamed
+	2 Forgeworks Assistant
+	2 Celena, Sand Sea Tamer
+	2 Nim, Planar Intruder
+	2 Logic Fracture
+	2 Anis, Fractureform Curator
+	2 Enlightened Disciple
+	2 Mystical Disciple
+	2 Reckless Disciple
+	2 Vampiric Disciple
+	2 Worldly Disciple
+	2 Magestic Hexwing
+	2 Elan, Master of Forms
+	2 Syvian, Scion of Duality
+	2 Titanfall Witness
+	2 Aspect of Genesis
+	2 Azra, the Dreamer
+	2 Primal Animus
+	2 Tahaz, Ardent Idealist
+	2 Multiplanarity
+	2 Skath, Forge Tyrant
+	2 Genesis Stone
+	2 Fractureform Conjuration
+	2 Ternus, the Immemorial
+	2 Immortal Champion
+	2 Mox Magnetite
+	2 Ageless Ascetic
+	2 Highspire Pegasus
+	2 Sya, Eternal Giver
+	2 Agent of Chaos
+	2 Tap The Forest's Pulse
+	2 Head in the Stars
+	2 Ascendant Veteran
+	2 Conscious Coast
+	2 Haleful Strix
+	2 Baneful Strix
+	2 Lucent Binding
+	2 Highspire Gardens
+	2 Scrupulous Veteran
+	2 Moment of Revelation
+	2 Ialuna, Deviant Shardsmith
+	2 Vistril, Invigorating Interloper
+	2 Brutality's Favor
+	2 Ritual of Revelation
+	2 Serpent's Bond
+	2 Aetherizing Blade
+	2 Equanimity
+	2 Vehement Light's Vengeance
+	2 Timeless Orthodoxy
+	2 Prideful Strix
+	2 Zestful Strix
+	2 Willful Strix
+	2 Orinn, Fierce Advocate
+	2 Primacy
+	2 Weaver's Favor
+	2 Shatterbloom
+	2 Runemaster's Acumen
+	2 Litara, Dune's Radiance
+	2 Price of War
+	2 Surestrike Paragon
+	2 Energetic Influx
+	2 Murkstream Summoning
+	2 Lightblades' Consecration
+	2 The Stars Succumb
+[uncommon(3)]
+[common(7)]
+[foil(1)]
+	2 Desolate Revelation
+	2 Eldritch Amalgam
+	2 Hysteria
+	2 Unstable Woodland
+	2 Inevitable End
+	2 Shadowkin Stalker
+	2 Resurgence Ritual
+	2 Resolute Veteran
+	2 Ruthless Legionnaire
+	2 Peer Into the Void
+	2 Waning Light's Usurper
+	2 Liminal Prowler
+	2 Kiyin, Ancient Despot
+	2 Dunecrest Sellsword
+	2 Lissa, Dismantler of Truth
+	2 Asha, Horizon Sentinel
+	2 Ira, Architect of Delusion
+	2 Pyrrhic Elimination
+	2 Winnowing Winds
+	2 Unbidden Arrival
+	2 Forsaken Remnant
+	2 Engulfing Shadows
+	2 Grim Verdict
+	2 Shadowseam Magistrate
+	2 Swarmed by Graspwings
+	2 Obfuscate
+	2 Coax from Beyond
+	2 Disciple of the Cycle
+	2 Grimhall Proctor
+	2 Voracious Viper
+	2 Legion Operative
+	2 All Costs
+	2 Font of Becoming
+	2 Crackling Blade
+	2 Astrographer's Trinket
+	2 Arcstitch Golem
+	2 Fracturetracer's Anklet
+	2 Genesis Bauble
+	2 Hollowed Bauble
+	2 Imposing Edifice
+	2 Idyllic Bauble
+	2 Intrepid Bauble
+	2 Prismatic Bauble
+	2 Ravaged Bauble
+	2 Umbral Bauble
+	2 Undergrowth Bauble
+	2 Untethered Bauble
+	2 Fractureform Bauble
+	2 Horizon Trawler
+	2 Vivid Bauble
+	2 Untamed Waygate
+	2 Set Ablaze
+	2 Legion Instigator
+	2 Arcing Elimination
+	2 Vengeant Flamekeeper
+	2 Legion Harrier
+	2 Dauntless Duneblade
+	2 Battlerune Adept
+	2 Magmaw Behemoth
+	2 Descend Into Chaos
+	2 Chaos Channeler
+	2 Naian, Pyre Guardian
+	2 Daring Expeditioner
+	2 Volcranox, Core Unbound
+	2 Vessel of Brutal Instinct
+	2 Living-Stone Snapper
+	2 Elise, Pitiless Marshal
+	2 Skittering Symbiont
+	2 Searing Outburst
+	2 Living-Stone Legionnaire
+	2 Sculptor of Agonies
+	2 Firemind Ignus
+	2 Blazewing
+	2 Flamewreathed Blade
+	2 Spitfire Elemental
+	2 Storm's Eye
+	2 Living-Stone Sentry
+	2 Effigy Cultist
+	2 Chargestrike Lancer
+	2 Steadfast Scourge
+	2 Inferno's Intimation
+	2 Demeris, Sunblight Cultist
+	2 Flowstone Artisan
+	2 Athros, Passion Shaper
+	2 Swift Bludgeoner
+	2 Molten Symbiont
+	2 Battle Trance
+	2 Immolating Vortex
+	2 Smoldering Hulk
+	2 Conjure the Inferno
+	2 Carnage Crafter
+	2 Final Promise
+	2 Firebrand Champion
+	2 Decree of Conflagration
+	2 Whisperflame Executioner
+	2 Surreal Sublimation
+	2 Hadi, the Unbound Mind
+	2 Archmage's Orrery
+	2 Nazar, Cultivator of Excess
+	2 Overcharge
+	2 Gloamshaper
+	2 Diffuse Reality
+	2 Crackling Dominator
+	2 Daredevil Essencecourser
+	2 Cyclonic Disruptor
+	2 Possibility Surfer
+	2 Desperate Deflection
+	2 Facet Reader
+	2 Spiremage's Containment
+	2 Cracklesnapper Drake
+	2 Desert Dealings
+	2 Paramount Potential
+	2 Mistrune Ancient
+	2 Morphing Manifesation
+	2 Chaotic Recall
+	2 Enigmatic Traversal
+	2 Forbidding Winds
+	2 Rainer's Bauble
+	2 Oversaturate
+	2 Prancing Automaton
+	2 Unstable Waygate
+	2 Split Reality
+	2 Evictor of Reality
+	2 Enforcer of Uniformity
+	2 Logic Diffractor
+	2 Cognitive Overload
+	2 Illusory Existence
+	2 Stormsquall Harrier
+	2 Fracturemark Ponderer
+	2 Starborne Steed
+	2 Zenaya, Fracture Conduit
+	2 Vessel of Impermanent Truths
+	2 Essence Projection
+	2 The Great Devourers
+	2 Stormsurge's Bounty
+	2 Petemass Devastator
+	2 Shadebough Ally
+	2 Doubling Season
+	2 Essenceweaver's Artistry
+	2 Bounteous Celebrant
+	2 Overgrown Monolith
+	2 Wild Unity
+	2 Predate
+	2 Rotfeaster Behemoth
+	2 Interminable Flourishing
+	2 Deepmist Prowler
+	2 Deepglade Guardian
+	2 Devoted Caretaker
+	2 Close the Cycle
+	2 Essenceweft Aura
+	2 Yivana, Grovewarden
+	2 Woodland Munchcrawler
+	2 Essence Channeler
+	2 Verdant-Flame Convergence
+	2 Ruthless Clash
+	2 Great Cycle Sage
+	2 Vicious Vinemass
+	2 Caustic Wanderer
+	2 Lifeweaver Adept
+	2 Luminous Disturbance
+	2 Blinding Echoes
+	2 Crippling Crackleform
+	2 Spireloft Patrician
+	2 Resolute Paladin
+	2 Revelatory Dawn
+	2 Gatebound Sovereign
+	2 Equality
+	2 Decoherent Prowler
+	2 Ethereal Wanderer
+	2 Fortitude
+	2 Weavers' Ascension
+	2 Strange Matter
+	2 Desert's Obscuration
+	2 Inspiring Orator
+	2 Manweir, Planar Archivist
+	2 Phasecloak Combatant
+	2 Sandstorm Seer
+	2 Attune to the Ethereal
+	2 Sandshroud Infiltrator
+	2 Dunewatch Sentinel
+	2 Arid Mesa
+	2 Bloodstained Mire
+	2 Eerie Barrens
+	2 Eerie Expanse
+	2 Eerie Grove
+	2 Eerie Marsh
+	2 Eerie Ruins
+	2 Eerie Snowcaps
+	2 Eerie Starfield
+	2 Eerie Steppes
+	2 Eerie Undergrowth
+	2 Eerie Wastes
+	2 Flooded Strand
+	2 Mana Confluence
+	2 Marsh Flats
+	2 Misty Rainforest
+	2 Polluted Delta
+	2 Stagnant Mill
+	2 Scalding Tarn
+	2 Scattered Bog
+	2 Scattered Craglands
+	2 Scattered Delta
+	2 Scattered Foothills
+	2 Scattered Marshlands
+	2 Scattered Plateau
+	2 Scattered Prairie
+	2 Scattered Snowcaps
+	2 Scattered Wetlands
+	2 Scattered Firepeaks
+	2 Shifting Bayou
+	2 Shifting Mire
+	2 Shifting Sands
+	2 Shifting Riverbeds
+	2 Shifting Quagmire
+	2 The Syan Forest
+	2 The Undergrowth, Festering Haven
+	2 Grimhall, Legion Stronghold
+	2 Verdant Catacombs
+	2 Vivid Crag
+	2 Vivid Creek
+	2 Vivid Grove
+	2 Vivid Marsh
+	2 Vivid Meadow
+	2 Windswept Heath
+	2 Wooded Foothills
+	2 Ord, Festering Hulk
+	2 Unstable Lavaflows
+	2 Despoil
+	2 Portentious Nightwing
+	2 Ebullient Stag
+	2 Olakul, Undergrowth Regent
+	2 Essenceform Obelisk
+	2 Undergrowth Ritechanter
+	2 Thriving Biome
+	2 Ansal, Bestower of Form
+	2 Unyielding Doctrine
+	2 Asari, Paragon of Tenacity
+	2 Essenceform Companion
+	2 Syan Ranger
+	2 Amediel, the Last Bastion
+	2 Battlewise Veteran
+	2 Arc, the Flame's Crest
+	2 Edge, the Whistling Sand
+	2 Patrician's Procession
+	2 Riko, Arcwielder
+	2 Omenwarders
+	2 Surge of Vigor
+	2 Unstable Quagmire
+	2 Smoldering Capsule
+	2 Vessel of Endless Increase
+	2 Tryana, Life's Majesty
+	2 Imbued Vitality
+	2 Arcing Stormbolt
+	2 Haphazard Spellweaver
+	2 Dynamancer
+	2 Vessel of Final Moments
+	2 Refracting Domain
+	2 Herald of Annihilation
+	2 Darien, Thought Auditor
+	2 Made Unreal
+	2 Anticausal Body
+	2 Ilsa, Lurking Dread
+	2 Inali, the Crackling Horizon
+	2 Vessel of Forever's Torment
+	2 Melas, Auburnwood Guardian
+	2 Aetta, Unity of Will
+	2 Serpentine Shadow
+	2 Devouring Delusion
+	2 Vindictive Vindicator
+	2 Inexorable Dread
+	2 Vessel of Vehement Light
+	2 Remove From Existence
+	2 Anelle, Circumspect Sovereign
+	2 Thrumming Gem
+	2 Ritual of Dying Light
+	2 Surgeform Infiltration
+	2 Locus of Chaos
+	2 Rite of Abundance
+	2 Namuna, Primogenitor
+	2 Thicket Crusher
+	2 Rena, Harmonious Stormsage
+	2 Fury's Edge
+	2 Shoreshaker Leviathan
+	2 Tet, Eternal Shepherd
+	2 Vessel of Timeless Order
+	2 Malkara, Runesage
+	2 Taikun, Arbiter of Oblivion
+	2 Unstable Isle
+	2 Truthbreaker
+	2 Manaflow Channeler
+	2 Lifestrand Threader
+	2 Molten Impacts
+	2 Blazing Triumph
+	2 Breach the Veil
+	2 Woodweave Symbiote
+	2 Stormheart Elemental
+	2 Edel, Ascendant Inspector
+	2 Moxis, Inertia Mage
+	2 Disjunction Sage
+	2 Blackened Skies
+	2 Essenceflow Ascetic
+	2 Disjunction
+	2 Zith, Aberrant Iconoclast
+	2 Lightforged Hammer
+	2 Lushfang Stalker
+	2 Terror of the Forgepeaks
+	2 Soulstrand Harmonist
+	2 Examine the Uncharted
+	2 Soulflame Keeper
+	2 One Above All
+	2 Unstable Dunes
+	2 Dunecrest Thaumaturge
+	2 Evanescent Singularity
+	2 Nihility Weaver
+	2 Ario, Ambling Verdure
+	2 Sand Sea Dunecrusher
+	2 Dune Reader
+	2 Legion's License
+	2 Indomitable Cleaver
+	2 Rethread
+	2 Nimble Blademaster
+	2 Lightweave Combatant
+	2 Sureflight Griffin
+	2 Condemn to Nothing
+	2 Kindlehorn Stag
+	2 Spiretop Sandflitter
+	2 Wayfarer's Finesse
+	2 Spire Sentinel
+	2 Boughrender Behemoth
+	2 Wildway Herald
+	2 Rootwarp Symbiote
+	2 Steady Automaton
+	2 White-Iron Sural
+	2 Wasteborn Monstrosity
+	2 Bounty of the Undergrowth
+	2 Warp Into Inexistence
+	2 The Great Fracture
+	2 Evanesce
+	2 Tanhide Pouncer
+	2 Sara, Essence Transmuter
+	2 Lifeweaver Mystic
+	2 Behold Destiny
+	2 Vitalheart Elemental
+	2 Ancient Warden's Effigy
+	2 Ascetic of Strength
+	2 Lifeshaper Twins
+	2 Shadowbind Incantation
+	2 Mirage Weaver
+	2 Highspire Regent
+	2 Etch, the Enigma
+	2 Unravel
+	2 Sculptor of Quintessence
+	2 Liminality
+	2 Steam Vents
+	2 Hallowed Fountain
+	2 Sacred Foundry
+	2 Breeding Pool
+	2 Godless Shrine
+	2 Blood Crypt
+	2 Stomping Ground
+	2 Watery Grave
+	2 Overgrown Tomb
+	2 Temple Garden
+	2 Agraxis, Pathbreaker
+	2 Oracle of Dead Night
+	2 Fluxwing Fowl
+	2 Loam Ritual
+	2 The Sand Sea
+	2 Ruthless Expeditioner
+	2 Helena, Light of the Spire
+	2 Malignant Surge
+	2 Elaine, Element Threader
+	2 Arclight Conjurer
+	2 Nullform Entity
+	2 Incinerate
+	2 Dance of the Ethereal
+	2 Decohere
+	2 Solace
+	2 Fluxfield Nucleus
+	2 Earthshaper Golem
+	2 Fracture Entity
+	2 Living-Stone Tyrant
+	2 Blazing Night
+	2 Cascading Multifurcation
+	2 Voltaic Discharge
+	2 Rally to Chaos
+	2 Saska, Rotborne Conjurer
+	2 Bestiomancer's Ascension
+	2 Aspect of Growth
+	2 Anima Sage
+	2 Acolyte of Renewal
+	2 Coiling Devourer
+	2 Umbral Apparition
+	2 Siphon Chaos
+	2 Gloomfowl
+	2 Dazzling Hypnosis
+	2 Flickering Insight
+	2 Lifeweft Reclaimer
+	2 Austere Starrix
+	2 Weaver of Majesty
+	2 Sand Sea Cyclone
+	2 Dunecrest Commander
+	2 Swiftstrike Adept
+	2 In the Eye of the Storm
+	2 Formless Titan
+	2 Manaflow Anchor
+	2 Weary Wayfinder
+	2 Spiretop Waygate
+	2 Sow Decay
+	2 Ilan, Probability Sculptor
+	2 Boughborne Ambush
+	2 Undergrowth Stalker
+	2 Undergrowth Scavenger
+	2 Pursue the Impossible
+	2 Maddened Seer
+	2 Eldritch Tides
+	2 Tenacious Ooze
+	2 Disincorporate
+	2 Shadowseam Apparition
+	2 Reduce
+	2 Descending Shadows
+	2 Stormscour Incursion
+	2 Stormwinnowed Drake
+	2 Herald of the Cycle
+	2 New Dawn's Herald
+	2 Ruthless Axeman
+	2 Undergrowth Prowler
+	2 Sinister Influence
+	2 Shadowskulk Scavenger
+	2 Rend Essence
+	2 Misguided Guardian
+	2 Fallen Arbiter
+	2 Light's End
+	2 Liminal Hunter
+	2 Ethereal Puppeteer
+	2 Eidolic Arcanist
+	2 Jezir, the Living Lie
+	2 Husk of Majesty
+	2 Vessel of Augmentation
+	2 Ignite the Shadowseam
+	2 Awakening Terrain
+	2 Righteous Rearming
+	2 Surveyor of the End
+	2 Void Rift
+	2 Scorched Memories
+	2 Clarify
+	2 Lifeforce Attunement
+	2 Shadowspinner's Guile
+	2 The Enigma Matrix
+	2 Lifeseed Obelisks
+	2 Haggard Smith
+	2 Immaterial Edge
+	2 Crackleform Javelin
+	2 Fracturemage's Meddling
+	2 Tranan, the Unrelenting
+	2 Skaine, Putrid Eminence
+	2 Forceful Denial
+	2 Monument to Generosity
+	2 Haunted Harbinger
+	2 Cosmic Perception
+	2 Shaper of Surreality
+	2 Stellar Residuum
+	2 Chaos Aperture
+	2 Enigma Keeper
+	2 Irana, Molder of Forms
+	2 Transmuting Pool
+	2 Havoc, Calamity's Edge
+	2 Acrid, Acolyte of Erosion
+	2 Sand Sea Waygate
+	2 Sylvia, the Forest's Pulse
+	2 Rootmind Collective
+	2 Shield of the Intangible
+	2 Forever-Tree's Presence
+	2 Weftplate Adept
+	2 Ashiok, Ruinous Curator
+	2 Ancient Arbiter
+	2 Timeless Marshal
+	2 Dynamic Cognition
+	2 Stormshaper's Prowess
+	2 Spontaneous Discontinuity
+	2 Architect of Domination
+	2 Tranan's Advance
+	2 The World Fracture
+	2 The Queen's Collapse
+	2 Emelia, Seeker of Surreality
+	2 Entrancing Visions
+	2 Forged by Chaos
+	2 Insomnivore
+	2 Vessel of Bleeding Boundaries
+	2 Sunspire, Glistening Citadel
+	2 Vexing Riftwing
+	2 Foretell the Unfathomable
+	2 Surgical Strike
+	2 Channel the Storm
+	2 Succumb to the Sands
+	2 Atraxa, Sinister Surveyor
+	2 Kalai, Will of the Untamed
+	2 Forgeworks Assistant
+	2 Celena, Sand Sea Tamer
+	2 Nim, Planar Intruder
+	2 Logic Fracture
+	2 Anis, Fractureform Curator
+	2 Enlightened Disciple
+	2 Mystical Disciple
+	2 Reckless Disciple
+	2 Vampiric Disciple
+	2 Worldly Disciple
+	2 Magestic Hexwing
+	2 Elan, Master of Forms
+	2 Syvian, Scion of Duality
+	2 Titanfall Witness
+	2 Aspect of Genesis
+	2 Azra, the Dreamer
+	2 Primal Animus
+	2 Tahaz, Ardent Idealist
+	2 Multiplanarity
+	2 Skath, Forge Tyrant
+	2 Genesis Stone
+	2 Fractureform Conjuration
+	2 Ternus, the Immemorial
+	2 Immortal Champion
+	2 Mox Magnetite
+	2 Ageless Ascetic
+	2 Highspire Pegasus
+	2 Sya, Eternal Giver
+	2 Agent of Chaos
+	2 Tap The Forest's Pulse
+	2 Head in the Stars
+	2 Ascendant Veteran
+	2 Conscious Coast
+	2 Haleful Strix
+	2 Baneful Strix
+	2 Lucent Binding
+	2 Highspire Gardens
+	2 Scrupulous Veteran
+	2 Moment of Revelation
+	2 Ialuna, Deviant Shardsmith
+	2 Vistril, Invigorating Interloper
+	2 Brutality's Favor
+	2 Ritual of Revelation
+	2 Serpent's Bond
+	2 Aetherizing Blade
+	2 Equanimity
+	2 Vehement Light's Vengeance
+	2 Timeless Orthodoxy
+	2 Prideful Strix
+	2 Zestful Strix
+	2 Willful Strix
+	2 Orinn, Fierce Advocate
+	2 Primacy
+	2 Weaver's Favor
+	2 Shatterbloom
+	2 Runemaster's Acumen
+	2 Litara, Dune's Radiance
+	2 Price of War
+	2 Surestrike Paragon
+	2 Energetic Influx
+	2 Murkstream Summoning
+	2 Lightblades' Consecration
+	2 The Stars Succumb
+[wildcard(1)]
+	7 Desolate Revelation
+	7 Eldritch Amalgam
+	7 Hysteria
+	7 Unstable Woodland
+	7 Inevitable End
+	7 Shadowkin Stalker
+	7 Resurgence Ritual
+	7 Resolute Veteran
+	7 Ruthless Legionnaire
+	7 Peer Into the Void
+	7 Waning Light's Usurper
+	7 Liminal Prowler
+	7 Kiyin, Ancient Despot
+	7 Dunecrest Sellsword
+	7 Lissa, Dismantler of Truth
+	7 Asha, Horizon Sentinel
+	7 Ira, Architect of Delusion
+	7 Pyrrhic Elimination
+	7 Winnowing Winds
+	7 Unbidden Arrival
+	7 Forsaken Remnant
+	7 Engulfing Shadows
+	7 Grim Verdict
+	7 Shadowseam Magistrate
+	7 Swarmed by Graspwings
+	7 Obfuscate
+	7 Coax from Beyond
+	7 Disciple of the Cycle
+	7 Grimhall Proctor
+	7 Voracious Viper
+	7 Legion Operative
+	7 All Costs
+	7 Font of Becoming
+	7 Crackling Blade
+	7 Astrographer's Trinket
+	7 Arcstitch Golem
+	7 Fracturetracer's Anklet
+	7 Genesis Bauble
+	7 Hollowed Bauble
+	7 Imposing Edifice
+	7 Idyllic Bauble
+	7 Intrepid Bauble
+	7 Prismatic Bauble
+	7 Ravaged Bauble
+	7 Umbral Bauble
+	7 Undergrowth Bauble
+	7 Untethered Bauble
+	7 Fractureform Bauble
+	7 Horizon Trawler
+	7 Vivid Bauble
+	7 Untamed Waygate
+	7 Set Ablaze
+	7 Legion Instigator
+	7 Arcing Elimination
+	7 Vengeant Flamekeeper
+	7 Legion Harrier
+	7 Dauntless Duneblade
+	7 Battlerune Adept
+	7 Magmaw Behemoth
+	7 Descend Into Chaos
+	7 Chaos Channeler
+	7 Naian, Pyre Guardian
+	7 Daring Expeditioner
+	7 Volcranox, Core Unbound
+	7 Vessel of Brutal Instinct
+	7 Living-Stone Snapper
+	7 Elise, Pitiless Marshal
+	7 Skittering Symbiont
+	7 Searing Outburst
+	7 Living-Stone Legionnaire
+	7 Sculptor of Agonies
+	7 Firemind Ignus
+	7 Blazewing
+	7 Flamewreathed Blade
+	7 Spitfire Elemental
+	7 Storm's Eye
+	7 Living-Stone Sentry
+	7 Effigy Cultist
+	7 Chargestrike Lancer
+	7 Steadfast Scourge
+	7 Inferno's Intimation
+	7 Demeris, Sunblight Cultist
+	7 Flowstone Artisan
+	7 Athros, Passion Shaper
+	7 Swift Bludgeoner
+	7 Molten Symbiont
+	7 Battle Trance
+	7 Immolating Vortex
+	7 Smoldering Hulk
+	7 Conjure the Inferno
+	7 Carnage Crafter
+	7 Final Promise
+	7 Firebrand Champion
+	7 Decree of Conflagration
+	7 Whisperflame Executioner
+	7 Surreal Sublimation
+	7 Hadi, the Unbound Mind
+	7 Archmage's Orrery
+	7 Nazar, Cultivator of Excess
+	7 Overcharge
+	7 Gloamshaper
+	7 Diffuse Reality
+	7 Crackling Dominator
+	7 Daredevil Essencecourser
+	7 Cyclonic Disruptor
+	7 Possibility Surfer
+	7 Desperate Deflection
+	7 Facet Reader
+	7 Spiremage's Containment
+	7 Cracklesnapper Drake
+	7 Desert Dealings
+	7 Paramount Potential
+	7 Mistrune Ancient
+	7 Morphing Manifesation
+	7 Chaotic Recall
+	7 Enigmatic Traversal
+	7 Forbidding Winds
+	7 Rainer's Bauble
+	7 Oversaturate
+	7 Prancing Automaton
+	7 Unstable Waygate
+	7 Split Reality
+	7 Evictor of Reality
+	7 Enforcer of Uniformity
+	7 Logic Diffractor
+	7 Cognitive Overload
+	7 Illusory Existence
+	7 Stormsquall Harrier
+	7 Fracturemark Ponderer
+	7 Starborne Steed
+	7 Zenaya, Fracture Conduit
+	7 Vessel of Impermanent Truths
+	7 Essence Projection
+	7 The Great Devourers
+	7 Stormsurge's Bounty
+	7 Petemass Devastator
+	7 Shadebough Ally
+	7 Doubling Season
+	7 Essenceweaver's Artistry
+	7 Bounteous Celebrant
+	7 Overgrown Monolith
+	7 Wild Unity
+	7 Predate
+	7 Rotfeaster Behemoth
+	7 Interminable Flourishing
+	7 Deepmist Prowler
+	7 Deepglade Guardian
+	7 Devoted Caretaker
+	7 Close the Cycle
+	7 Essenceweft Aura
+	7 Yivana, Grovewarden
+	7 Woodland Munchcrawler
+	7 Essence Channeler
+	7 Verdant-Flame Convergence
+	7 Ruthless Clash
+	7 Great Cycle Sage
+	7 Vicious Vinemass
+	7 Caustic Wanderer
+	7 Lifeweaver Adept
+	7 Luminous Disturbance
+	7 Blinding Echoes
+	7 Crippling Crackleform
+	7 Spireloft Patrician
+	7 Resolute Paladin
+	7 Revelatory Dawn
+	7 Gatebound Sovereign
+	7 Equality
+	7 Decoherent Prowler
+	7 Ethereal Wanderer
+	7 Fortitude
+	7 Weavers' Ascension
+	7 Strange Matter
+	7 Desert's Obscuration
+	7 Inspiring Orator
+	7 Manweir, Planar Archivist
+	7 Phasecloak Combatant
+	7 Sandstorm Seer
+	7 Attune to the Ethereal
+	7 Sandshroud Infiltrator
+	7 Dunewatch Sentinel
+	7 Arid Mesa
+	7 Bloodstained Mire
+	7 Eerie Barrens
+	7 Eerie Expanse
+	7 Eerie Grove
+	7 Eerie Marsh
+	7 Eerie Ruins
+	7 Eerie Snowcaps
+	7 Eerie Starfield
+	7 Eerie Steppes
+	7 Eerie Undergrowth
+	7 Eerie Wastes
+	7 Flooded Strand
+	7 Mana Confluence
+	7 Marsh Flats
+	7 Misty Rainforest
+	7 Polluted Delta
+	7 Stagnant Mill
+	7 Scalding Tarn
+	7 Scattered Bog
+	7 Scattered Craglands
+	7 Scattered Delta
+	7 Scattered Foothills
+	7 Scattered Marshlands
+	7 Scattered Plateau
+	7 Scattered Prairie
+	7 Scattered Snowcaps
+	7 Scattered Wetlands
+	7 Scattered Firepeaks
+	7 Shifting Bayou
+	7 Shifting Mire
+	7 Shifting Sands
+	7 Shifting Riverbeds
+	7 Shifting Quagmire
+	7 The Syan Forest
+	7 The Undergrowth, Festering Haven
+	7 Grimhall, Legion Stronghold
+	7 Verdant Catacombs
+	7 Vivid Crag
+	7 Vivid Creek
+	7 Vivid Grove
+	7 Vivid Marsh
+	7 Vivid Meadow
+	7 Windswept Heath
+	7 Wooded Foothills
+	7 Ord, Festering Hulk
+	7 Unstable Lavaflows
+	7 Despoil
+	7 Portentious Nightwing
+	7 Ebullient Stag
+	7 Olakul, Undergrowth Regent
+	7 Essenceform Obelisk
+	7 Undergrowth Ritechanter
+	7 Thriving Biome
+	7 Ansal, Bestower of Form
+	7 Unyielding Doctrine
+	7 Asari, Paragon of Tenacity
+	7 Essenceform Companion
+	7 Syan Ranger
+	7 Amediel, the Last Bastion
+	7 Battlewise Veteran
+	7 Arc, the Flame's Crest
+	7 Edge, the Whistling Sand
+	7 Patrician's Procession
+	7 Riko, Arcwielder
+	7 Omenwarders
+	7 Surge of Vigor
+	7 Unstable Quagmire
+	7 Smoldering Capsule
+	7 Vessel of Endless Increase
+	7 Tryana, Life's Majesty
+	7 Imbued Vitality
+	7 Arcing Stormbolt
+	7 Haphazard Spellweaver
+	7 Dynamancer
+	7 Vessel of Final Moments
+	7 Refracting Domain
+	7 Herald of Annihilation
+	7 Darien, Thought Auditor
+	7 Made Unreal
+	7 Anticausal Body
+	7 Ilsa, Lurking Dread
+	7 Inali, the Crackling Horizon
+	7 Vessel of Forever's Torment
+	7 Melas, Auburnwood Guardian
+	7 Aetta, Unity of Will
+	7 Serpentine Shadow
+	7 Devouring Delusion
+	7 Vindictive Vindicator
+	7 Inexorable Dread
+	7 Vessel of Vehement Light
+	7 Remove From Existence
+	7 Anelle, Circumspect Sovereign
+	7 Thrumming Gem
+	7 Ritual of Dying Light
+	7 Surgeform Infiltration
+	7 Locus of Chaos
+	7 Rite of Abundance
+	7 Namuna, Primogenitor
+	7 Thicket Crusher
+	7 Rena, Harmonious Stormsage
+	7 Fury's Edge
+	7 Shoreshaker Leviathan
+	7 Tet, Eternal Shepherd
+	7 Vessel of Timeless Order
+	7 Malkara, Runesage
+	7 Taikun, Arbiter of Oblivion
+	7 Unstable Isle
+	7 Truthbreaker
+	7 Manaflow Channeler
+	7 Lifestrand Threader
+	7 Molten Impacts
+	7 Blazing Triumph
+	7 Breach the Veil
+	7 Woodweave Symbiote
+	7 Stormheart Elemental
+	7 Edel, Ascendant Inspector
+	7 Moxis, Inertia Mage
+	7 Disjunction Sage
+	7 Blackened Skies
+	7 Essenceflow Ascetic
+	7 Disjunction
+	7 Zith, Aberrant Iconoclast
+	7 Lightforged Hammer
+	7 Lushfang Stalker
+	7 Terror of the Forgepeaks
+	7 Soulstrand Harmonist
+	7 Examine the Uncharted
+	7 Soulflame Keeper
+	7 One Above All
+	7 Unstable Dunes
+	7 Dunecrest Thaumaturge
+	7 Evanescent Singularity
+	7 Nihility Weaver
+	7 Ario, Ambling Verdure
+	7 Sand Sea Dunecrusher
+	7 Dune Reader
+	7 Legion's License
+	7 Indomitable Cleaver
+	7 Rethread
+	7 Nimble Blademaster
+	7 Lightweave Combatant
+	7 Sureflight Griffin
+	7 Condemn to Nothing
+	7 Kindlehorn Stag
+	7 Spiretop Sandflitter
+	7 Wayfarer's Finesse
+	7 Spire Sentinel
+	7 Boughrender Behemoth
+	7 Wildway Herald
+	7 Rootwarp Symbiote
+	7 Steady Automaton
+	7 White-Iron Sural
+	7 Wasteborn Monstrosity
+	7 Bounty of the Undergrowth
+	7 Warp Into Inexistence
+	7 The Great Fracture
+	7 Evanesce
+	7 Tanhide Pouncer
+	7 Sara, Essence Transmuter
+	7 Lifeweaver Mystic
+	7 Behold Destiny
+	7 Vitalheart Elemental
+	7 Ancient Warden's Effigy
+	7 Ascetic of Strength
+	7 Lifeshaper Twins
+	7 Shadowbind Incantation
+	7 Mirage Weaver
+	7 Highspire Regent
+	7 Etch, the Enigma
+	7 Unravel
+	7 Sculptor of Quintessence
+	7 Liminality
+	7 Steam Vents
+	7 Hallowed Fountain
+	7 Sacred Foundry
+	7 Breeding Pool
+	7 Godless Shrine
+	7 Blood Crypt
+	7 Stomping Ground
+	7 Watery Grave
+	7 Overgrown Tomb
+	7 Temple Garden
+	7 Agraxis, Pathbreaker
+	7 Oracle of Dead Night
+	7 Fluxwing Fowl
+	7 Loam Ritual
+	7 The Sand Sea
+	7 Ruthless Expeditioner
+	7 Helena, Light of the Spire
+	7 Malignant Surge
+	7 Elaine, Element Threader
+	7 Arclight Conjurer
+	7 Nullform Entity
+	7 Incinerate
+	7 Dance of the Ethereal
+	7 Decohere
+	7 Solace
+	7 Fluxfield Nucleus
+	7 Earthshaper Golem
+	7 Fracture Entity
+	7 Living-Stone Tyrant
+	7 Blazing Night
+	7 Cascading Multifurcation
+	7 Voltaic Discharge
+	7 Rally to Chaos
+	7 Saska, Rotborne Conjurer
+	7 Bestiomancer's Ascension
+	7 Aspect of Growth
+	7 Anima Sage
+	7 Acolyte of Renewal
+	7 Coiling Devourer
+	7 Umbral Apparition
+	7 Siphon Chaos
+	7 Gloomfowl
+	7 Dazzling Hypnosis
+	7 Flickering Insight
+	7 Lifeweft Reclaimer
+	7 Austere Starrix
+	7 Weaver of Majesty
+	7 Sand Sea Cyclone
+	7 Dunecrest Commander
+	7 Swiftstrike Adept
+	7 In the Eye of the Storm
+	7 Formless Titan
+	7 Manaflow Anchor
+	7 Weary Wayfinder
+	7 Spiretop Waygate
+	7 Sow Decay
+	7 Ilan, Probability Sculptor
+	7 Boughborne Ambush
+	7 Undergrowth Stalker
+	7 Undergrowth Scavenger
+	7 Pursue the Impossible
+	7 Maddened Seer
+	7 Eldritch Tides
+	7 Tenacious Ooze
+	7 Disincorporate
+	7 Shadowseam Apparition
+	7 Reduce
+	7 Descending Shadows
+	7 Stormscour Incursion
+	7 Stormwinnowed Drake
+	7 Herald of the Cycle
+	7 New Dawn's Herald
+	7 Ruthless Axeman
+	7 Undergrowth Prowler
+	7 Sinister Influence
+	7 Shadowskulk Scavenger
+	7 Rend Essence
+	7 Misguided Guardian
+	7 Fallen Arbiter
+	7 Light's End
+	7 Liminal Hunter
+	7 Ethereal Puppeteer
+	7 Eidolic Arcanist
+	7 Jezir, the Living Lie
+	7 Husk of Majesty
+	7 Vessel of Augmentation
+	7 Ignite the Shadowseam
+	7 Awakening Terrain
+	7 Righteous Rearming
+	7 Surveyor of the End
+	7 Void Rift
+	7 Scorched Memories
+	7 Clarify
+	7 Lifeforce Attunement
+	7 Shadowspinner's Guile
+	7 The Enigma Matrix
+	7 Lifeseed Obelisks
+	7 Haggard Smith
+	7 Immaterial Edge
+	7 Crackleform Javelin
+	7 Fracturemage's Meddling
+	7 Tranan, the Unrelenting
+	7 Skaine, Putrid Eminence
+	7 Forceful Denial
+	7 Monument to Generosity
+	7 Haunted Harbinger
+	7 Cosmic Perception
+	7 Shaper of Surreality
+	7 Stellar Residuum
+	7 Chaos Aperture
+	7 Enigma Keeper
+	7 Irana, Molder of Forms
+	7 Transmuting Pool
+	7 Havoc, Calamity's Edge
+	7 Acrid, Acolyte of Erosion
+	7 Sand Sea Waygate
+	7 Sylvia, the Forest's Pulse
+	7 Rootmind Collective
+	7 Shield of the Intangible
+	7 Forever-Tree's Presence
+	7 Weftplate Adept
+	7 Ashiok, Ruinous Curator
+	7 Ancient Arbiter
+	7 Timeless Marshal
+	7 Dynamic Cognition
+	7 Stormshaper's Prowess
+	7 Spontaneous Discontinuity
+	7 Architect of Domination
+	7 Tranan's Advance
+	7 The World Fracture
+	7 The Queen's Collapse
+	7 Emelia, Seeker of Surreality
+	7 Entrancing Visions
+	7 Forged by Chaos
+	7 Insomnivore
+	7 Vessel of Bleeding Boundaries
+	7 Sunspire, Glistening Citadel
+	7 Vexing Riftwing
+	7 Foretell the Unfathomable
+	7 Surgical Strike
+	7 Channel the Storm
+	7 Succumb to the Sands
+	7 Atraxa, Sinister Surveyor
+	7 Kalai, Will of the Untamed
+	7 Forgeworks Assistant
+	7 Celena, Sand Sea Tamer
+	7 Nim, Planar Intruder
+	7 Logic Fracture
+	7 Anis, Fractureform Curator
+	7 Enlightened Disciple
+	7 Mystical Disciple
+	7 Reckless Disciple
+	7 Vampiric Disciple
+	7 Worldly Disciple
+	7 Magestic Hexwing
+	7 Elan, Master of Forms
+	7 Syvian, Scion of Duality
+	7 Titanfall Witness
+	7 Aspect of Genesis
+	7 Azra, the Dreamer
+	7 Primal Animus
+	7 Tahaz, Ardent Idealist
+	7 Multiplanarity
+	7 Skath, Forge Tyrant
+	7 Genesis Stone
+	7 Fractureform Conjuration
+	7 Ternus, the Immemorial
+	7 Immortal Champion
+	7 Mox Magnetite
+	7 Ageless Ascetic
+	7 Highspire Pegasus
+	7 Sya, Eternal Giver
+	7 Agent of Chaos
+	7 Tap The Forest's Pulse
+	7 Head in the Stars
+	7 Ascendant Veteran
+	7 Conscious Coast
+	7 Haleful Strix
+	7 Baneful Strix
+	7 Lucent Binding
+	7 Highspire Gardens
+	7 Scrupulous Veteran
+	7 Moment of Revelation
+	7 Ialuna, Deviant Shardsmith
+	7 Vistril, Invigorating Interloper
+	7 Brutality's Favor
+	7 Ritual of Revelation
+	7 Serpent's Bond
+	7 Aetherizing Blade
+	7 Equanimity
+	7 Vehement Light's Vengeance
+	7 Timeless Orthodoxy
+	7 Prideful Strix
+	7 Zestful Strix
+	7 Willful Strix
+	7 Orinn, Fierce Advocate
+	7 Primacy
+	7 Weaver's Favor
+	7 Shatterbloom
+	7 Runemaster's Acumen
+	7 Litara, Dune's Radiance
+	7 Price of War
+	7 Surestrike Paragon
+	7 Energetic Influx
+	7 Murkstream Summoning
+	7 Lightblades' Consecration
+	7 The Stars Succumb
